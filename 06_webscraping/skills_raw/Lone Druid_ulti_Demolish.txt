@@ -1,0 +1,18 @@
+Demolish<div style="float:right;"><a href="/wiki/Illusions" title="Cannot be used by illusions."><img alt="Cannot be used by illusions." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="20" height="20" data-image-name="Illusion no symbol.png" data-image-key="Illusion_no_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Illusion_no_symbol.png/revision/latest/scale-to-width-down/20?cb=20180323121120" class="lazyload"></a> <a href="/wiki/Break" title="Disabled by Break."><img alt="Disabled by Break." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="20" height="20" data-image-name="Breakable symbol.png" data-image-key="Breakable_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Breakable_symbol.png/revision/latest/scale-to-width-down/20?cb=20180323111725" class="lazyload"></a> </div>
+</div><div class="ability-head"><div class="ico_passive"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Demolish_%28Spirit_Bear%29_icon.png/revision/latest?cb=20150911135857" class="image"><img alt="Demolish (Spirit Bear) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="128" height="128" data-image-name="Demolish (Spirit Bear) icon.png" data-image-key="Demolish_%28Spirit_Bear%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Demolish_%28Spirit_Bear%29_icon.png/revision/latest/scale-to-width-down/128?cb=20150911135857" class="lazyload"></a></div>
+<div class="ability-description">
+<div style="padding: 15px 5px; font-size: 85%; line-height: 100%; text-align: center;">
+<div style="display: inline-block; width: 32%; vertical-align: top;"><b>Ability</b><br><a href="/wiki/Passive" class="mw-redirect" title="Passive">Passive</a></div>
+<div style="display: inline-block; width: 32%; vertical-align: top;"><b>Affects</b><br>Self  / Enemies</div>
+<div style="display: inline-block; width: 32%; vertical-align: top;"></div>
+</div>
+<div style="vertical-align: top; padding: 3px 5px; border-top: 1px solid black;">Increases the power of the Spirit Bear, causing it to deal more damage to buildings and have additional spell resistance.</div>
+</div>
+</div>
+<div style="vertical-align:top; padding: 3px 5px; display:inline-block;"><div><b>Magic Resistance Bonus:</b> <span style="white-space: nowrap">33%</span></div><div><b>Building Attack Damage Bonus:</b> <span style="white-space: nowrap">15%/30%/45%/60%</span></div><div style="margin-top:10px;"><b><span class="tooltip" title="The displayed names are the intern names of the modifiers. Do not change them even if they don't match the ability name." style="cursor: help; border-bottom: 1px dotted;">Modifiers</span></b></div>
+<div style="font-size:85%; margin-left:10px;">
+<div><a href="/wiki/Dispel" title="Buff"><img alt="Buff" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Modifier buff symbol.png" data-image-key="Modifier_buff_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c1/Modifier_buff_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111811" class="lazyload"></a> <span style="color:#1F631F;"><b><span class="tooltip" title="Hidden modifier" style="cursor: help; border-bottom: 1px dotted;">modifier_lone_druid_spirit_bear_demolish</span>:</b> Undispellable. Persists death.</span></div>
+</div>
+<p><br>
+</p>
+</div></div>

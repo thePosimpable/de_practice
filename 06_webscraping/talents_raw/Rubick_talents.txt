@@ -1,0 +1,210 @@
+
+
+<tbody><tr>
+<th class="header" rowspan="2" style="width:10%;">Level
+</th>
+<th class="header" colspan="10" style="width:90%;"><span class="image-link"><a href="/wiki/Rubick" title="Rubick"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Fade Bolt icon.png" data-image-key="Fade_Bolt_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Fade_Bolt_icon.png/revision/latest/scale-to-width-down/16?cb=20120620035130"></a> <a href="/wiki/Rubick#Fade_Bolt" title="Rubick">Fade Bolt</a></span> Damage Reduction<sub>/ Hit Target</sub>
+</th></tr>
+<tr>
+<td style="width:9%"><b>Base</b>
+</td>
+<td style="width:9%"><b>2x</b>
+</td>
+<td style="width:9%"><b>3x</b>
+</td>
+<td style="width:9%"><b>4x</b>
+</td>
+<td style="width:9%"><b>5x</b>
+</td>
+<td style="width:9%"><b>6x</b>
+</td>
+<td style="width:9%"><b>7x</b>
+</td>
+<td style="width:9%"><b>8x</b>
+</td>
+<td style="width:9%"><b>9x</b>
+</td>
+<td style="width:9%"><b>10x</b>
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 1</b>
+</td>
+<td style="width:9%">100
+</td>
+<td>93
+</td>
+<td>86.5
+</td>
+<td>80.4
+</td>
+<td>74.8
+</td>
+<td>69.6
+</td>
+<td>64.7
+</td>
+<td>60.2
+</td>
+<td>56
+</td>
+<td>52
+</td></tr>
+<tr>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">Σ Dmg <sub><small>/ Hit Target</small></sub>
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">193
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">279.5
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">359.9
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">434.7
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">504.3
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">569
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">629.2
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">685.1
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">737.2
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 2</b>
+</td>
+<td style="width:9%">175
+</td>
+<td>162.8
+</td>
+<td>151.4
+</td>
+<td>140.8
+</td>
+<td>130.9
+</td>
+<td>121.7
+</td>
+<td>113.2
+</td>
+<td>105.3
+</td>
+<td>97.9
+</td>
+<td>91.1
+</td></tr>
+<tr>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">Σ Dmg <sub><small>/ Hit Target</small></sub>
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">337.8
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">489.1
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">629.9
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">760.8
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">882.5
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">995.7
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1101
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1199
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1290
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 3</b>
+</td>
+<td style="width:9%">250
+</td>
+<td>232.5
+</td>
+<td>216.2
+</td>
+<td>201.1
+</td>
+<td>187
+</td>
+<td>173.9
+</td>
+<td>161.7
+</td>
+<td>150.4
+</td>
+<td>139.9
+</td>
+<td>130.1
+</td></tr>
+<tr>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">Σ Dmg <sub><small>/ Hit Target</small></sub>
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">482.5
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">698.7
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">899.8
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1086.8
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1260.7
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1422.5
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1572.9
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1712.8
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1842.9
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 4</b>
+</td>
+<td style="width:9%">325
+</td>
+<td>302.3
+</td>
+<td>281.1
+</td>
+<td>261.4
+</td>
+<td>243.1
+</td>
+<td>226.1
+</td>
+<td>210.3
+</td>
+<td>195.6
+</td>
+<td>181.9
+</td>
+<td>169.1
+</td></tr>
+<tr>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">Σ Dmg <sub><small>/ Hit Target</small></sub>
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">627.3
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">908.3
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1169.8
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1412.9
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1639
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">1849.2
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">2044.8
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">2226.7
+</td>
+<td style="width:9%; font-weight:bold; color:black; background:#FFAEA3;">2395.8
+</td></tr>
+</tbody><tbody><tr><th colspan="3" style="height:40px;background-color:#0C2A5A"><a href="/wiki/Talents" title="Talents"><span style="color:white; font-size:14pt;">Hero Talents</span></a></th></tr>
+<tr><td style="width:240px">+40% Spell Amp For <span class="image-link"><a href="/wiki/Rubick" title="Rubick"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Spell Steal icon.png" data-image-key="Spell_Steal_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f4/Spell_Steal_icon.png/revision/latest/scale-to-width-down/16?cb=20120620034900"></a> <a href="/wiki/Rubick#Spell_Steal" title="Rubick">Stolen Spells</a></span></td><th style="padding:10px;background-color:hsl(217, 76%, 20%);font-size:13pt;color:white">25</th><td style="width:240px">-12s <span class="image-link"><a href="/wiki/Rubick" title="Rubick"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Telekinesis icon.png" data-image-key="Telekinesis_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Telekinesis_icon.png/revision/latest/scale-to-width-down/16?cb=20120620035342"></a> <a href="/wiki/Rubick#Telekinesis" title="Rubick">Telekinesis</a></span> Cooldown</td></tr>
+<tr><td style="width:240px">+240 <span class="image-link"><a href="/wiki/Rubick" title="Rubick"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Telekinesis Land icon.png" data-image-key="Telekinesis_Land_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Telekinesis_Land_icon.png/revision/latest/scale-to-width-down/16?cb=20120620035319"></a> <a href="/wiki/Rubick#Telekinesis_Land" title="Rubick">Telekinesis Land</a></span> Distance</td><th style="padding:10px;background-color:hsl(217, 76%, 30%);font-size:13pt;color:white">20</th><td style="width:240px">-4s <span class="image-link"><a href="/wiki/Rubick" title="Rubick"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Fade Bolt icon.png" data-image-key="Fade_Bolt_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Fade_Bolt_icon.png/revision/latest/scale-to-width-down/16?cb=20120620035130"></a> <a href="/wiki/Rubick#Fade_Bolt" title="Rubick">Fade Bolt</a></span> Cooldown</td></tr>
+<tr><td style="width:240px">+0.6s <span class="image-link"><a href="/wiki/Rubick" title="Rubick"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Telekinesis icon.png" data-image-key="Telekinesis_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Telekinesis_icon.png/revision/latest/scale-to-width-down/16?cb=20120620035342"></a> <a href="/wiki/Rubick#Telekinesis" title="Rubick">Telekinesis</a></span> Lift Duration</td><th style="padding:10px;background-color:hsl(217, 76%, 40%);font-size:13pt;color:white">15</th><td style="width:240px">-25% <span class="image-link"><a href="/wiki/Rubick" title="Rubick"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Spell Steal icon.png" data-image-key="Spell_Steal_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f4/Spell_Steal_icon.png/revision/latest/scale-to-width-down/16?cb=20120620034900"></a> <a href="/wiki/Rubick#Spell_Steal" title="Rubick">Stolen Spells</a></span> Cooldown</td></tr>
+<tr><td style="width:240px">-10% <span class="image-link"><a href="/wiki/Rubick" title="Rubick"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Fade Bolt icon.png" data-image-key="Fade_Bolt_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Fade_Bolt_icon.png/revision/latest/scale-to-width-down/16?cb=20120620035130"></a> <a href="/wiki/Rubick#Fade_Bolt" title="Rubick">Fade Bolt</a></span> Damage Reduction</td><th style="padding:10px;background-color:hsl(217, 76%, 50%);font-size:13pt;color:white">10</th><td style="width:240px">+175 <span class="image-link"><a href="/wiki/Rubick" title="Rubick"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Telekinesis icon.png" data-image-key="Telekinesis_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Telekinesis_icon.png/revision/latest/scale-to-width-down/16?cb=20120620035342"></a> <a href="/wiki/Rubick#Telekinesis" title="Rubick">Telekinesis</a></span> Landing Damage</td></tr>
+</tbody>

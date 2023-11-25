@@ -1,0 +1,210 @@
+
+
+<tbody><tr>
+<th class="header" rowspan="2" style="width:10%;">Level
+</th>
+<th class="header" colspan="10"><span class="image-link"><a href="/wiki/Ursa" title="Ursa"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Fury Swipes icon.png" data-image-key="Fury_Swipes_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Fury_Swipes_icon.png/revision/latest/scale-to-width-down/16?cb=20111216175145"></a> <a href="/wiki/Ursa#Fury_Swipes" title="Ursa">Fury Swipes</a></span> Bonus Attack Damage Dealt on Each Attack <sub>/ Stack</sub>
+</th></tr>
+<tr>
+<td style="width:9%"><b>Base</b>
+</td>
+<td style="width:9%"><b>2nd</b>
+</td>
+<td style="width:9%"><b>3rd</b>
+</td>
+<td style="width:9%"><b>4th</b>
+</td>
+<td style="width:9%"><b>5th</b>
+</td>
+<td style="width:9%"><b>6th</b>
+</td>
+<td style="width:9%"><b>7th</b>
+</td>
+<td style="width:9%"><b>8th</b>
+</td>
+<td style="width:9%"><b>9th</b>
+</td>
+<td style="width:9%"><b>10th</b>
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 1</b> (<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>) <sub>/ Attack</sub>
+</td>
+<td>10&nbsp;(<span style="color:#CF6A32; font-weight:bold">22</span>)
+</td>
+<td>20&nbsp;(<span style="color:#CF6A32; font-weight:bold">44</span>)
+</td>
+<td>30&nbsp;(<span style="color:#CF6A32; font-weight:bold">66</span>)
+</td>
+<td>40&nbsp;(<span style="color:#CF6A32; font-weight:bold">88</span>)
+</td>
+<td>50&nbsp;(<span style="color:#CF6A32; font-weight:bold">110</span>)
+</td>
+<td>60&nbsp;(<span style="color:#CF6A32; font-weight:bold">132</span>)
+</td>
+<td>70&nbsp;(<span style="color:#CF6A32; font-weight:bold">154</span>)
+</td>
+<td>80&nbsp;(<span style="color:#CF6A32; font-weight:bold">176</span>)
+</td>
+<td>90&nbsp;(<span style="color:#CF6A32; font-weight:bold">198</span>)
+</td>
+<td>100&nbsp;(<span style="color:#CF6A32; font-weight:bold">220</span>)
+</td></tr>
+<tr>
+<td style="font-weight:bold; color:black; background:#FFAEA3;"><span class="tooltip" title="Total Damage Accumulated" style="cursor: help; border-bottom: 1px dotted;">Σ Dmg <sub>/ Stack</sub></span>
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">30&nbsp;(<span style="color:#CF6A32; font-weight:bold">66</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">60&nbsp;(<span style="color:#CF6A32; font-weight:bold">132</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">100&nbsp;(<span style="color:#CF6A32; font-weight:bold">220</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">150&nbsp;(<span style="color:#CF6A32; font-weight:bold">330</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">210&nbsp;(<span style="color:#CF6A32; font-weight:bold">462</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">280&nbsp;(<span style="color:#CF6A32; font-weight:bold">616</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">360&nbsp;(<span style="color:#CF6A32; font-weight:bold">792</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">450&nbsp;(<span style="color:#CF6A32; font-weight:bold">990</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">550&nbsp;(<span style="color:#CF6A32; font-weight:bold">1210</span>)
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 2</b> (<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>) <sub>/ Attack</sub>
+</td>
+<td>19&nbsp;(<span style="color:#CF6A32; font-weight:bold">31</span>)
+</td>
+<td>38&nbsp;(<span style="color:#CF6A32; font-weight:bold">62</span>)
+</td>
+<td>57&nbsp;(<span style="color:#CF6A32; font-weight:bold">93</span>)
+</td>
+<td>76&nbsp;(<span style="color:#CF6A32; font-weight:bold">124</span>)
+</td>
+<td>95&nbsp;(<span style="color:#CF6A32; font-weight:bold">155</span>)
+</td>
+<td>114&nbsp;(<span style="color:#CF6A32; font-weight:bold">186</span>)
+</td>
+<td>133&nbsp;(<span style="color:#CF6A32; font-weight:bold">217</span>)
+</td>
+<td>152&nbsp;(<span style="color:#CF6A32; font-weight:bold">248</span>)
+</td>
+<td>171&nbsp;(<span style="color:#CF6A32; font-weight:bold">279</span>)
+</td>
+<td>190&nbsp;(<span style="color:#CF6A32; font-weight:bold">310</span>)
+</td></tr>
+<tr>
+<td style="font-weight:bold; color:black; background:#FFAEA3;"><span class="tooltip" title="Total Damage Accumulated" style="cursor: help; border-bottom: 1px dotted;">Σ Dmg <sub>/ Stack</sub></span>
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">57&nbsp;(<span style="color:#CF6A32; font-weight:bold">93</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">114&nbsp;(<span style="color:#CF6A32; font-weight:bold">186</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">190&nbsp;(<span style="color:#CF6A32; font-weight:bold">310</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">285&nbsp;(<span style="color:#CF6A32; font-weight:bold">465</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">399&nbsp;(<span style="color:#CF6A32; font-weight:bold">651</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">532&nbsp;(<span style="color:#CF6A32; font-weight:bold">868</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">684&nbsp;(<span style="color:#CF6A32; font-weight:bold">1116</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">855&nbsp;(<span style="color:#CF6A32; font-weight:bold">1395</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">1045&nbsp;(<span style="color:#CF6A32; font-weight:bold">1705</span>)
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 3</b> (<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>) <sub>/ Attack</sub>
+</td>
+<td>28&nbsp;(<span style="color:#CF6A32; font-weight:bold">40</span>)
+</td>
+<td>56&nbsp;(<span style="color:#CF6A32; font-weight:bold">80</span>)
+</td>
+<td>84&nbsp;(<span style="color:#CF6A32; font-weight:bold">120</span>)
+</td>
+<td>112&nbsp;(<span style="color:#CF6A32; font-weight:bold">160</span>)
+</td>
+<td>140&nbsp;(<span style="color:#CF6A32; font-weight:bold">200</span>)
+</td>
+<td>168&nbsp;(<span style="color:#CF6A32; font-weight:bold">240</span>)
+</td>
+<td>196&nbsp;(<span style="color:#CF6A32; font-weight:bold">280</span>)
+</td>
+<td>224&nbsp;(<span style="color:#CF6A32; font-weight:bold">320</span>)
+</td>
+<td>252&nbsp;(<span style="color:#CF6A32; font-weight:bold">360</span>)
+</td>
+<td>280&nbsp;(<span style="color:#CF6A32; font-weight:bold">400</span>)
+</td></tr>
+<tr>
+<td style="font-weight:bold; color:black; background:#FFAEA3;"><span class="tooltip" title="Total Damage Accumulated" style="cursor: help; border-bottom: 1px dotted;">Σ Dmg <sub>/ Stack</sub></span>
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">84&nbsp;(<span style="color:#CF6A32; font-weight:bold">120</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">168&nbsp;(<span style="color:#CF6A32; font-weight:bold">240</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">280&nbsp;(<span style="color:#CF6A32; font-weight:bold">400</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">420&nbsp;(<span style="color:#CF6A32; font-weight:bold">600</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">588&nbsp;(<span style="color:#CF6A32; font-weight:bold">840</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">784&nbsp;(<span style="color:#CF6A32; font-weight:bold">1120</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">1008&nbsp;(<span style="color:#CF6A32; font-weight:bold">1440</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">1260&nbsp;(<span style="color:#CF6A32; font-weight:bold">1800</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">1540&nbsp;(<span style="color:#CF6A32; font-weight:bold">2200</span>)
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 4</b> (<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>) <sub>/ Attack</sub>
+</td>
+<td>37&nbsp;(<span style="color:#CF6A32; font-weight:bold">49</span>)
+</td>
+<td>74&nbsp;(<span style="color:#CF6A32; font-weight:bold">98</span>)
+</td>
+<td>111&nbsp;(<span style="color:#CF6A32; font-weight:bold">147</span>)
+</td>
+<td>148&nbsp;(<span style="color:#CF6A32; font-weight:bold">196</span>)
+</td>
+<td>185&nbsp;(<span style="color:#CF6A32; font-weight:bold">245</span>)
+</td>
+<td>222&nbsp;(<span style="color:#CF6A32; font-weight:bold">294</span>)
+</td>
+<td>259&nbsp;(<span style="color:#CF6A32; font-weight:bold">343</span>)
+</td>
+<td>296&nbsp;(<span style="color:#CF6A32; font-weight:bold">392</span>)
+</td>
+<td>333&nbsp;(<span style="color:#CF6A32; font-weight:bold">441</span>)
+</td>
+<td>370&nbsp;(<span style="color:#CF6A32; font-weight:bold">490</span>)
+</td></tr>
+<tr>
+<td style="font-weight:bold; color:black; background:#FFAEA3;"><span class="tooltip" title="Total Damage Accumulated" style="cursor: help; border-bottom: 1px dotted;">Σ Dmg <sub>/ Stack</sub></span>
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">111&nbsp;(<span style="color:#CF6A32; font-weight:bold">147</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">222&nbsp;(<span style="color:#CF6A32; font-weight:bold">294</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">370&nbsp;(<span style="color:#CF6A32; font-weight:bold">490</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">555&nbsp;(<span style="color:#CF6A32; font-weight:bold">735</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">777&nbsp;(<span style="color:#CF6A32; font-weight:bold">1029</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">1036&nbsp;(<span style="color:#CF6A32; font-weight:bold">1372</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">1332&nbsp;(<span style="color:#CF6A32; font-weight:bold">1764</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">1665&nbsp;(<span style="color:#CF6A32; font-weight:bold">2205</span>)
+</td>
+<td style="font-weight:bold; color:black; background:#FFAEA3;">2035&nbsp;(<span style="color:#CF6A32; font-weight:bold">2695</span>)
+</td></tr>
+</tbody><tbody><tr><th colspan="3" style="height:40px;background-color:#0C2A5A"><a href="/wiki/Talents" title="Talents"><span style="color:white; font-size:14pt;">Hero Talents</span></a></th></tr>
+<tr><td style="width:240px">+3 <span class="image-link"><a href="/wiki/Ursa" title="Ursa"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Overpower icon.png" data-image-key="Overpower_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Overpower_icon.png/revision/latest/scale-to-width-down/16?cb=20111216175126"></a> <a href="/wiki/Ursa#Overpower" title="Ursa">Overpower</a></span> Attacks</td><th style="padding:10px;background-color:hsl(217, 76%, 20%);font-size:13pt;color:white">25</th><td style="width:240px">+500 AoE <span class="image-link"><a href="/wiki/Ursa" title="Ursa"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Earthshock icon.png" data-image-key="Earthshock_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Earthshock_icon.png/revision/latest/scale-to-width-down/16?cb=20111216175107"></a> <a href="/wiki/Ursa#Earthshock" title="Ursa">Earthshock</a></span></td></tr>
+<tr><td style="width:240px">+12 <span class="image-link"><a href="/wiki/Ursa" title="Ursa"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Fury Swipes icon.png" data-image-key="Fury_Swipes_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Fury_Swipes_icon.png/revision/latest/scale-to-width-down/16?cb=20111216175145"></a> <a href="/wiki/Ursa#Fury_Swipes" title="Ursa">Fury Swipes</a></span> Damage</td><th style="padding:10px;background-color:hsl(217, 76%, 30%);font-size:13pt;color:white">20</th><td style="width:240px">+10% <span class="image-link"><a href="/wiki/Ursa" title="Ursa"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Enrage icon.png" data-image-key="Enrage_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/52/Enrage_icon.png/revision/latest/scale-to-width-down/16?cb=20111216175202"></a> <a href="/wiki/Ursa#Enrage" title="Ursa">Enrage</a></span> Status Resistance</td></tr>
+<tr><td style="width:240px">+350 <a href="/wiki/Health" title="Health">Health</a></td><th style="padding:10px;background-color:hsl(217, 76%, 40%);font-size:13pt;color:white">15</th><td style="width:240px">+10 <span style="white-space:nowrap"><a href="/wiki/Agility" title="Agility"><img alt="Agility attribute symbol.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="20" height="20" class="noprint lazyload" data-image-name="Agility attribute symbol.png" data-image-key="Agility_attribute_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2d/Agility_attribute_symbol.png/revision/latest/scale-to-width-down/20?cb=20180323111717"></a> <a href="/wiki/Agility" title="Agility">Agility</a></span></td></tr>
+<tr><td style="width:240px">+1.75 <a href="/wiki/Mana_regeneration" title="Mana regeneration">Mana Regen</a></td><th style="padding:10px;background-color:hsl(217, 76%, 50%);font-size:13pt;color:white">10</th><td style="width:240px">+20s <span class="image-link"><a href="/wiki/Ursa" title="Ursa"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Fury Swipes icon.png" data-image-key="Fury_Swipes_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Fury_Swipes_icon.png/revision/latest/scale-to-width-down/16?cb=20111216175145"></a> <a href="/wiki/Ursa#Fury_Swipes" title="Ursa">Fury Swipes</a></span> Reset Time</td></tr>
+</tbody>

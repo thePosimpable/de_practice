@@ -1,0 +1,210 @@
+
+
+<tbody><tr>
+<th class="header" rowspan="2" style="width:10%;">Level
+</th>
+<th class="header" colspan="10" style="width:90%;">Fully Charged <span class="image-link"><a href="/wiki/Windranger" title="Windranger"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Powershot icon.png" data-image-key="Powershot_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Powershot_icon.png/revision/latest/scale-to-width-down/16?cb=20111006075120"></a> <a href="/wiki/Windranger#Powershot" title="Windranger">Powershot</a></span> Damage Reduction<sub>/ Hit Target</sub>
+</th></tr>
+<tr>
+<td style="width:9%"><b>Base</b>
+</td>
+<td style="width:9%"><b>2nd</b>
+</td>
+<td style="width:9%"><b>3rd</b>
+</td>
+<td style="width:9%"><b>4th</b>
+</td>
+<td style="width:9%"><b>5th</b>
+</td>
+<td style="width:9%"><b>6th</b>
+</td>
+<td style="width:9%"><b>7th</b>
+</td>
+<td style="width:9%"><b>8th</b>
+</td>
+<td style="width:9%"><b>9th</b>
+</td>
+<td style="width:9%"><b>10th</b>
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 1</b><br>(<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="width:9%">150
+</td>
+<td>120
+</td>
+<td>96
+</td>
+<td>76.8
+</td>
+<td>61.4
+</td>
+<td>49.2
+</td>
+<td>39.3
+</td>
+<td>31.5
+</td>
+<td>25.2
+</td>
+<td>20.1
+</td></tr>
+<tr>
+<td style="width:9%"><span><span style="font-weight:bold; color:#CF6A32;">250</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">200</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">160</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">128</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">102.4</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">81.9</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">65.5</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">52.4</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">41.9</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">33.6</span></span>
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 2</b><br>(<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="width:9%">250
+</td>
+<td>200
+</td>
+<td>160
+</td>
+<td>128
+</td>
+<td>102.4
+</td>
+<td>81.9
+</td>
+<td>65.5
+</td>
+<td>52.4
+</td>
+<td>41.9
+</td>
+<td>33.6
+</td></tr>
+<tr>
+<td style="width:9%"><span><span style="font-weight:bold; color:#CF6A32;">350</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">280</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">224</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">179.2</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">143.4</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">114.7</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">91.8</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">73.4</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">58.7</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">47</span></span>
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 3</b><br>(<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="width:9%">350
+</td>
+<td>280
+</td>
+<td>224
+</td>
+<td>179.2
+</td>
+<td>143.4
+</td>
+<td>114.7
+</td>
+<td>91.8
+</td>
+<td>73.4
+</td>
+<td>58.7
+</td>
+<td>47
+</td></tr>
+<tr>
+<td style="width:9%"><span><span style="font-weight:bold; color:#CF6A32;">450</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">360</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">288</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">230.4</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">184.3</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">147.5</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">118</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">94.4</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">75.5</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">60.4</span></span>
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 4</b><br>(<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="width:9%">450
+</td>
+<td>360
+</td>
+<td>288
+</td>
+<td>230.4
+</td>
+<td>184.3
+</td>
+<td>147.5
+</td>
+<td>118
+</td>
+<td>94.4
+</td>
+<td>75.5
+</td>
+<td>60.4
+</td></tr>
+<tr>
+<td style="width:9%"><span><span style="font-weight:bold; color:#CF6A32;">550</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">440</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">352</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">281.6</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">225.3</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">180.2</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">144.2</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">115.3</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">92.3</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">73.8</span></span>
+</td></tr>
+</tbody><tbody><tr><th colspan="3" style="height:40px;background-color:#0C2A5A"><a href="/wiki/Talents" title="Talents"><span style="color:white; font-size:14pt;">Hero Talents</span></a></th></tr>
+<tr><td style="width:240px"><span class="image-link"><a href="/wiki/Windranger" title="Windranger"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Focus Fire icon.png" data-image-key="Focus_Fire_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Focus_Fire_icon.png/revision/latest/scale-to-width-down/16?cb=20111006075123"></a> <a href="/wiki/Windranger#Focus_Fire" title="Windranger">Focus Fire</a></span> Kills Advance Cooldown by 20s.</td><th style="padding:10px;background-color:hsl(217, 76%, 20%);font-size:13pt;color:white">25</th><td style="width:240px"><span class="image-link"><a href="/wiki/Windranger" title="Windranger"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Windrun icon.png" data-image-key="Windrun_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Windrun_icon.png/revision/latest/scale-to-width-down/16?cb=20111006075121"></a> <a href="/wiki/Windranger#Windrun" title="Windranger">Windrun</a></span> Grants Invisibility</td></tr>
+<tr><td style="width:240px">-16% <span class="image-link"><a href="/wiki/Windranger" title="Windranger"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Focus Fire icon.png" data-image-key="Focus_Fire_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Focus_Fire_icon.png/revision/latest/scale-to-width-down/16?cb=20111006075123"></a> <a href="/wiki/Windranger#Focus_Fire" title="Windranger">Focus Fire</a></span> Damage Reduction</td><th style="padding:10px;background-color:hsl(217, 76%, 30%);font-size:13pt;color:white">20</th><td style="width:240px">+0.8s <span class="image-link"><a href="/wiki/Windranger" title="Windranger"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Shackleshot icon.png" data-image-key="Shackleshot_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3e/Shackleshot_icon.png/revision/latest/scale-to-width-down/16?cb=20111006075119"></a> <a href="/wiki/Windranger#Shackleshot" title="Windranger">Shackleshot</a></span> Duration</td></tr>
+<tr><td style="width:240px">Undispellable <span class="image-link"><a href="/wiki/Windranger" title="Windranger"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Windrun icon.png" data-image-key="Windrun_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Windrun_icon.png/revision/latest/scale-to-width-down/16?cb=20111006075121"></a> <a href="/wiki/Windranger#Windrun" title="Windranger">Windrun</a></span></td><th style="padding:10px;background-color:hsl(217, 76%, 40%);font-size:13pt;color:white">15</th><td style="width:240px">+100 <span class="image-link"><a href="/wiki/Windranger" title="Windranger"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Powershot icon.png" data-image-key="Powershot_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Powershot_icon.png/revision/latest/scale-to-width-down/16?cb=20111006075120"></a> <a href="/wiki/Windranger#Powershot" title="Windranger">Powershot</a></span> Damage</td></tr>
+<tr><td style="width:240px">-2s <span class="image-link"><a href="/wiki/Windranger" title="Windranger"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Shackleshot icon.png" data-image-key="Shackleshot_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3e/Shackleshot_icon.png/revision/latest/scale-to-width-down/16?cb=20111006075119"></a> <a href="/wiki/Windranger#Shackleshot" title="Windranger">Shackleshot</a></span> Cooldown</td><th style="padding:10px;background-color:hsl(217, 76%, 50%);font-size:13pt;color:white">10</th><td style="width:240px">+1.5 <a href="/wiki/Mana_regeneration" title="Mana regeneration">Mana Regen</a></td></tr>
+</tbody>

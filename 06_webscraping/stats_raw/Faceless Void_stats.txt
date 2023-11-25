@@ -1,0 +1,305 @@
+
+<tbody><tr>
+<th style="color:white; background:linear-gradient(0deg, #167C13 -10%, #1B1E21 30%, #1B1E21 90%, #167C13); font-size:112%; color:#fff; text-shadow:1px 1px 2px #000;">Faceless Void
+<div style="color:#1B1E21;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Faceless_Void_icon.png/revision/latest?cb=20160411213936" class="image"><img alt="Faceless Void icon.png" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Faceless_Void_icon.png/revision/latest/scale-to-width-down/300?cb=20160411213936" decoding="async" width="300" height="169" data-image-name="Faceless Void icon.png" data-image-key="Faceless_Void_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Faceless_Void_icon.png/revision/latest/scale-to-width-down/300?cb=20160411213936" class=" lazyloaded"></a></div>
+<div style="width:100%; padding:4px 0; display:grid; grid-template-columns: auto auto auto; color:white; text-align:center;">
+<div><a href="/wiki/Strength" title="Strength"><img alt="Strength attribute symbol.png" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Strength_attribute_symbol.png/revision/latest/scale-to-width-down/35?cb=20180323111829" decoding="async" width="35" height="35" data-image-name="Strength attribute symbol.png" data-image-key="Strength_attribute_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Strength_attribute_symbol.png/revision/latest/scale-to-width-down/35?cb=20180323111829" class=" ls-is-cached lazyloaded"></a></div>
+<div id="primaryAttribute"><a href="/wiki/Agility" title="Agility"><img alt="Agility attribute symbol.png" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2d/Agility_attribute_symbol.png/revision/latest/scale-to-width-down/35?cb=20180323111717" decoding="async" width="35" height="35" data-image-name="Agility attribute symbol.png" data-image-key="Agility_attribute_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2d/Agility_attribute_symbol.png/revision/latest/scale-to-width-down/35?cb=20180323111717" class=" ls-is-cached lazyloaded"></a></div>
+<div><a href="/wiki/Intelligence" title="Intelligence"><img alt="Intelligence attribute symbol.png" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/56/Intelligence_attribute_symbol.png/revision/latest/scale-to-width-down/35?cb=20180323111753" decoding="async" width="35" height="35" data-image-name="Intelligence attribute symbol.png" data-image-key="Intelligence_attribute_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/56/Intelligence_attribute_symbol.png/revision/latest/scale-to-width-down/35?cb=20180323111753" class=" ls-is-cached lazyloaded"></a></div>
+<div style="color:#fff; text-shadow:1px 1px 2px #000;">20 + 2.4</div>
+<div style="color:#fff; text-shadow:1px 1px 2px #000;">19 + 3</div>
+<div style="color:#fff; text-shadow:1px 1px 2px #000;">15 + 1.5</div>
+</div>
+</th></tr>
+
+<tr>
+<td><div class="metadata" style="z-index:100;" id="Drop-down-list2">
+<div class="mw-customtoggle-statstooltip mw-customtoggle" style="height:15px; align-items:start; margin-top:-13px;" tabindex="0"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/MediaWiki_Vector_skin_action_arrow.png/revision/latest?cb=20180424035557" class="image" title="More Information"><img alt="More Information" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/MediaWiki_Vector_skin_action_arrow.png/revision/latest/scale-to-width-down/16?cb=20180424035557" decoding="async" width="16" height="16" data-image-name="MediaWiki Vector skin action arrow.png" data-image-key="MediaWiki_Vector_skin_action_arrow.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/MediaWiki_Vector_skin_action_arrow.png/revision/latest/scale-to-width-down/16?cb=20180424035557" class=" ls-is-cached lazyloaded"></a></div> 
+<div class="mw-collapsible mw-collapsed mw-made-collapsible" id="mw-customcollapsible-statstooltip" style="">
+<div class="mw-collapsible-content" style="text-align: left; font-size: 80%; display: none;">
+<table style="width:100%;">
+<tbody><tr>
+<td style="width:40px; text-align:center;"><a href="/wiki/Strength" title="Strength"><img alt="Strength attribute symbol.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="20" height="20" data-image-name="Strength attribute symbol.png" data-image-key="Strength_attribute_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Strength_attribute_symbol.png/revision/latest/scale-to-width-down/20?cb=20180323111829" class="lazyload"></a>
+</td>
+<td>+20<sub>HP</sub> and +0.1<sub>HP</sub> regeneration/point.
+</td></tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Agility" title="Agility"><img alt="Agility attribute symbol.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="20" height="20" data-image-name="Agility attribute symbol.png" data-image-key="Agility_attribute_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2d/Agility_attribute_symbol.png/revision/latest/scale-to-width-down/20?cb=20180323111717" class="lazyload"></a>
+</td>
+<td>+0.17 armor and 1 attack speed/point.<br>+1 <a href="/wiki/Attack_damage#Main_Attack_Damage" title="Attack damage">main attack damage</a>/point.
+</td></tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Intelligence" title="Intelligence"><img alt="Intelligence attribute symbol.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="20" height="20" data-image-name="Intelligence attribute symbol.png" data-image-key="Intelligence_attribute_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/56/Intelligence_attribute_symbol.png/revision/latest/scale-to-width-down/20?cb=20180323111753" class="lazyload"></a>
+</td>
+<td>+12<sub>MP</sub> and +0.05<sub>MP</sub> regeneration/point.
+</td></tr></tbody></table>
+</div></div></div>  
+</td></tr>
+<tr>
+<td>
+<table class="evenrowsgray" style="width:300px; border-collapse:collapse; text-align:center; border-top:1px solid black;">
+<tbody><tr>
+<th style="width:60px; text-align:left; font-size:90%;"><a href="/wiki/Experience#Leveling" title="Experience">Level</a>
+</th>
+<th style="width:48px;">0
+</th>
+<th style="width:48px;">1
+</th>
+<th style="width:48px;">15
+</th>
+<th style="width:48px;">25
+</th>
+<th style="width:48px;">30
+</th></tr>
+<tr>
+<td colspan="6"><div class="metadata" style="z-index:100;" id="Drop-down-list1">
+<div class="mw-customtoggle-LVLtooltip mw-customtoggle" style="height:15px; align-items:start; margin-top:-10px;" tabindex="0"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/MediaWiki_Vector_skin_action_arrow.png/revision/latest?cb=20180424035557" class="image" title="More Information"><img alt="More Information" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/MediaWiki_Vector_skin_action_arrow.png/revision/latest/scale-to-width-down/16?cb=20180424035557" decoding="async" width="16" height="16" data-image-name="MediaWiki Vector skin action arrow.png" data-image-key="MediaWiki_Vector_skin_action_arrow.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/MediaWiki_Vector_skin_action_arrow.png/revision/latest/scale-to-width-down/16?cb=20180424035557" class=" ls-is-cached lazyloaded"></a></div> 
+<div class="mw-collapsible mw-collapsed mw-made-collapsible" id="mw-customcollapsible-LVLtooltip" style="">
+<div class="mw-collapsible-content" style="text-align: left; font-size: 90%; display: none;">
+<table>
+<tbody><tr>
+<td style="width:40px;">L0
+</td>
+<td>Base Hero Values
+</td></tr>
+<tr>
+<td>L1
+</td>
+<td><b>⤷</b> + Base <a href="/wiki/Attribute" class="mw-redirect" title="Attribute">Attributes</a>
+</td></tr>
+<tr>
+<td>L15
+</td>
+<td><b>⤷</b> + Attribute Gain
+</td></tr>
+<tr>
+<td>L25
+</td>
+<td><b>⤷</b> + 6 levels of <span class="image-link"><a href="/wiki/Attributes" title="Attributes"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Attribute Bonus icon.png" data-image-key="Attribute_Bonus_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Attribute_Bonus_icon.png/revision/latest/scale-to-width-down/16?cb=20111112224148"></a> <a href="/wiki/Attributes#Attribute_Bonus" title="Attributes">Attribute Bonus</a></span>
+</td></tr>
+<tr>
+<td>L30
+</td>
+<td><b>⤷</b> + 7 levels of Attribute Bonus
+</td></tr>
+<tr>
+<td colspan="2" style="font-size:80%; text-align:center;"><b>All values shown are without <a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a> <a href="/wiki/Talent" class="mw-redirect" title="Talent">talent</a> bonuses.</b>
+</td></tr></tbody></table>
+</div></div></div>  
+</td></tr>
+<tr>
+<th style="text-align:left; vertical-align:middle; background:linear-gradient(to right, #286323, #387F28); font-size:90%; border-top:1px solid black;" rowspan="2"><a href="/wiki/Health" title="Health"><span style="color:#fff; text-shadow:1px 1px 2px #000;">Health</span></a>
+</th>
+<td style="background:linear-gradient(to right, #387F28, #4A9E2E); font-size:90%; font-weight:bold; color:#fff; text-shadow:1px 1px 2px #000; border-top:1px solid black;">200
+</td>
+<td style="background:linear-gradient(to right, #4A9E2E, #59B832); font-size:90%; font-weight:bold; color:#fff; text-shadow:1px 1px 2px #000; border-top:1px solid black;">600
+</td>
+<td style="background:linear-gradient(to right, #59B832, #6AD537); font-size:90%; font-weight:bold; color:#fff; text-shadow:1px 1px 2px #000; border-top:1px solid black;">1260
+</td>
+<td style="background:linear-gradient(to right, #6AD537, #72E33A); font-size:90%; font-weight:bold; color:#fff; text-shadow:1px 1px 2px #000; border-top:1px solid black;">1980
+</td>
+<td style="background:linear-gradient(to right, #72E33A, #7AF03C); font-size:90%; font-weight:bold; color:#fff; text-shadow:1px 1px 2px #000; border-top:1px solid black;">2260
+</td></tr>
+
+<tr>
+<td style="background:linear-gradient(to right, #387F28, #4A9E2E); color:#204F1C; font-size:80%; font-weight:bold;">+0.5
+</td>
+<td style="background:linear-gradient(to right, #4A9E2E, #59B832); color:#204F1C; font-size:80%; font-weight:bold;">+2.5
+</td>
+<td style="background:linear-gradient(to right, #59B832, #6AD537); color:#204F1C; font-size:80%; font-weight:bold;">+5.86
+</td>
+<td style="background:linear-gradient(to right, #6AD537, #72E33A); color:#204F1C; font-size:80%; font-weight:bold;">+9.46
+</td>
+<td style="background:linear-gradient(to right, #72E33A, #7AF03C); color:#204F1C; font-size:80%; font-weight:bold;">+10.86
+</td></tr>
+<tr>
+<th style="text-align:left; vertical-align:middle; background:linear-gradient(to right, #1056DB, #2171E1); font-size:90%;" rowspan="2"><a href="/wiki/Mana" title="Mana"><span style="color:#fff; text-shadow:1px 1px 2px #000;">Mana</span></a>
+</th>
+<td style="background:linear-gradient(to right, #2171E1, #318AE7); font-size:90%; font-weight:bold; color:#fff; text-shadow:1px 1px 2px #000;">75
+</td>
+<td style="background:linear-gradient(to right, #318AE7, #41A3EC); font-size:90%; font-weight:bold; color:#fff; text-shadow:1px 1px 2px #000;">255
+</td>
+<td style="background:linear-gradient(to right, #41A3EC, #4FBBF1); font-size:90%; font-weight:bold; color:#fff; text-shadow:1px 1px 2px #000;">507
+</td>
+<td style="background:linear-gradient(to right, #4FBBF1, #5ED3F6); font-size:90%; font-weight:bold; color:#fff; text-shadow:1px 1px 2px #000;">831
+</td>
+<td style="background:linear-gradient(to right, #5ED3F6, #73F5FE); font-size:90%; font-weight:bold; color:#fff; text-shadow:1px 1px 2px #000;">939
+</td></tr>
+
+<tr>
+<td style="background:linear-gradient(to right, #2171E1, #318AE7); color:#204F1C; font-size:80%; font-weight:bold;">+0
+</td>
+<td style="background:linear-gradient(to right, #318AE7, #41A3EC); color:#204F1C; font-size:80%; font-weight:bold;">+0.75
+</td>
+<td style="background:linear-gradient(to right, #41A3EC, #4FBBF1); color:#204F1C; font-size:80%; font-weight:bold;">+1.8
+</td>
+<td style="background:linear-gradient(to right, #4FBBF1, #5ED3F6); color:#204F1C; font-size:80%; font-weight:bold;">+3.15
+</td>
+<td style="background:linear-gradient(to right, #5ED3F6, #73F5FE); color:#204F1C; font-size:80%; font-weight:bold;">+3.63
+</td></tr>
+<tr>
+<th style="font-size:90%; text-align:left; border-top:1px solid black;"><a href="/wiki/Armor" title="Armor">Armor</a>
+</th>
+<td style="font-size:85%; border-top:1px solid black;">1
+</td>
+<td style="font-size:85%; border-top:1px solid black;"><span class="tooltip" title="750.12 EHP" style="cursor: help; border-bottom: 1px dotted;">4.17</span>
+</td>
+<td style="font-size:85%; border-top:1px solid black;"><span class="tooltip" title="2104.45 EHP" style="cursor: help; border-bottom: 1px dotted;">11.17</span>
+</td>
+<td style="font-size:85%; border-top:1px solid black;"><span class="tooltip" title="4138.6 EHP" style="cursor: help; border-bottom: 1px dotted;">18.17</span>
+</td>
+<td style="font-size:85%; border-top:1px solid black;"><span class="tooltip" title="5107.6 EHP" style="cursor: help; border-bottom: 1px dotted;">21</span>
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left;" colspan="2"><a href="/wiki/Damage_Block" class="mw-redirect" title="Damage Block">Damage Block</a>
+</th>
+<td style="width:48px;">
+</td>
+<td style="width:48px; font-size:90%; font-weight:bold;"><a href="/wiki/Damage_Block" class="mw-redirect" title="Damage Block">16</a>
+</td>
+<td style="width:48px; font-size:90%; text-align:left;">(<span class="tooltip" title="Proc Chance" style="cursor: help; border-bottom: 1px dotted;">50%</span>)
+</td>
+<td style="width:48px;">
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left;" colspan="2"><a href="/wiki/Magic_Resistance" class="mw-redirect" title="Magic Resistance">Magic Resistance</a>
+</th>
+<td style="width:48px;">
+</td>
+<td style="width:48px; font-size:90%;">25%
+</td>
+<td colspan="2">
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left;" colspan="2"><a href="/wiki/Status_Resistance" class="mw-redirect" title="Status Resistance">Status Resistance</a>
+</th>
+<td style="width:48px;">
+</td>
+<td style="width:48px; font-size:90%;">0%
+</td>
+<td colspan="2">
+</td></tr>
+<tr>
+<th style="font-size:90%; text-align:left; border-top:1px solid black;"><a href="/wiki/Attack_Damage" class="mw-redirect" title="Attack Damage">Damage</a>
+</th>
+<td style="font-size:85%; border-top:1px solid black;">37‒43
+</td>
+<td style="font-size:85%; border-top:1px solid black;">56‒62
+</td>
+<td style="font-size:85%; border-top:1px solid black;">98‒104
+</td>
+<td style="font-size:85%; border-top:1px solid black;">140‒146
+</td>
+<td style="font-size:85%; border-top:1px solid black;">157‒163
+</td></tr>
+<tr>
+<th style="font-size:90%; text-align:left;"><span class="tooltip" title="Attacks per Second" style="cursor: help; border-bottom: 1px dotted;">Attack Rate</span>
+</th>
+<td style="font-size:85%;">0.59<sub>/s</sub>
+</td>
+<td style="font-size:85%;">0.7<sub>/s</sub>
+</td>
+<td style="font-size:85%;">0.95<sub>/s</sub>
+</td>
+<td style="font-size:85%;">1.19<sub>/s</sub>
+</td>
+<td style="font-size:85%;">1.29<sub>/s</sub>
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left;" colspan="2"><a href="/wiki/Attack_Range" class="mw-redirect" title="Attack Range">Attack Range</a>
+</th>
+<td style="width:48px;"><span style="margin-left:60%;"><a href="/wiki/Attack_range#Melee_and_ranged" title="Melee"><img alt="Melee" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Melee_icon.png/revision/latest/scale-to-width-down/15?cb=20210930055014" decoding="async" width="15" height="15" class="componentsinvert ls-is-cached lazyloaded" data-image-name="Melee icon.png" data-image-key="Melee_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Melee_icon.png/revision/latest/scale-to-width-down/15?cb=20210930055014"></a></span>
+</td>
+<td style="width:48px; font-size:90%;">150
+</td>
+<td style="width:96px; font-size:90%; text-align:left;" colspan="2">(<a href="/wiki/Acquisition_Range" class="mw-redirect" title="Acquisition Range">600</a>)
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left;" colspan="2"><a href="/wiki/Attack_Speed" class="mw-redirect" title="Attack Speed">Attack Speed</a>
+</th>
+<td style="width:48px;"><span style="margin-left:60%;"><span><audio hidden="" class="ext-audiobutton" data-volume="1.0"><source src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a0/Faceless_Void_attack.mp3/revision/latest?cb=20191216013837" type="audio/mpeg"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a0/Faceless_Void_attack.mp3/revision/latest?cb=20191216013837">Link</a></audio><a class="ext-audiobutton" data-state="play" title="Play/Pause"></a></span></span>
+</td>
+<td style="width:48px; font-size:90%;">100
+</td>
+<td style="width:96px; font-size:90%; text-align:left;" colspan="2">(1.7s <a href="/wiki/Base_Attack_Time" class="mw-redirect" title="Base Attack Time">BAT</a>)
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left;" colspan="2"><a href="/wiki/Attack_Animation" class="mw-redirect" title="Attack Animation">Attack Animation</a>
+</th>
+<td style="width:48px;">
+</td>
+<td style="width:48px; font-size:90%;"><span class="tooltip" title="Attack Point" style="cursor: help; border-bottom: 1px dotted;">0.5</span>+<span class="tooltip" title="Attack Backswing" style="cursor: help; border-bottom: 1px dotted;">0.56</span>
+</td>
+<td colspan="2">
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left;" colspan="2"><a href="/wiki/Projectile_Speed" class="mw-redirect" title="Projectile Speed">Projectile Speed</a>
+</th>
+<td style="width:48px;">
+</td>
+<td style="width:48px; font-size:85%;"><span class="tooltip" title="Melee units have their projectile set to 900, if they ever should need it." style="cursor: help; border-bottom: 1px dotted;">Instant</span>
+</td>
+<td colspan="2">
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left; border-top:1px solid black;" colspan="2"><a href="/wiki/Movement_Speed" class="mw-redirect" title="Movement Speed">Movement Speed</a>
+</th>
+<td style="width:48px; border-top:1px solid black;"><span style="margin-left:60%;"><span><audio hidden="" class="ext-audiobutton" data-volume="1.0"><source src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/93/Faceless_Void_move.mp3/revision/latest?cb=20191216013840" type="audio/mpeg"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/93/Faceless_Void_move.mp3/revision/latest?cb=20191216013840">Link</a></audio><a class="ext-audiobutton" data-state="play" title="Play/Pause"></a></span></span>
+</td>
+<td style="width:48px; font-size:90%; border-top:1px solid black;">300
+</td>
+<td style="border-top:1px solid black;" colspan="2">
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left;" colspan="2"><a href="/wiki/Turn_Rate" class="mw-redirect" title="Turn Rate">Turn Rate</a>
+</th>
+<td style="width:48px;"><span style="margin-left:60%;"><a href="/wiki/Turn_Rate" title="Takes 0.116s to turn 180°."><img alt="Takes 0.116s to turn 180°." src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Turn_rate_icon.png/revision/latest/scale-to-width-down/15?cb=20210509025611" decoding="async" width="15" height="15" data-image-name="Turn rate icon.png" data-image-key="Turn_rate_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Turn_rate_icon.png/revision/latest/scale-to-width-down/15?cb=20210509025611" class=" ls-is-cached lazyloaded"></a></span>
+</td>
+<td style="width:48px; font-size:90%;">0.9
+</td>
+<td colspan="2">
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left;" colspan="2"><a href="/wiki/Collision_Size" class="mw-redirect" title="Collision Size">Collision Size</a>
+</th>
+<td style="width:48px;">
+</td>
+<td style="width:48px; font-size:90%;">24
+</td>
+<td colspan="2">
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left;" colspan="2"><a href="/wiki/Vision" title="Vision">Vision Range</a>
+</th>
+<td style="width:48px; font-size:85%;"><span style="margin-left:60%;">(<a href="/wiki/Ground_Vision" class="mw-redirect" title="Ground Vision">G</a>)</span>
+</td>
+<td style="width:96px; font-size:90%; text-align:left;" colspan="2"><span style="margin-left:10%;"><span class="tooltip" title="Daytime" style="cursor: help; border-bottom: 1px dotted;">1800</span>&nbsp;•&nbsp;<span class="tooltip" title="Nighttime" style="cursor: help; border-bottom: 1px dotted;">800</span></span>
+</td>
+<td style="width:48px;">
+</td></tr>
+<tr>
+<th style="width:108px; font-size:90%; text-align:left; border-top:1px solid black;" colspan="2"><a href="/wiki/Legs" title="Legs">Legs</a>
+</th>
+<td style="width:48px; border-top:1px solid black;">
+</td>
+<td style="width:48px; font-size:90%; border-top:1px solid black;">2
+</td>
+<td style="border-top:1px solid black;" colspan="2">
+</td></tr>
+<tr>
+<th style="border-bottom:1px solid black; width:108px; font-size:90%; text-align:left;" colspan="2">Gib Type
+</th>
+<td style="border-bottom:1px solid black; width:48px;">
+</td>
+<td style="border-bottom:1px solid black; width:48px; font-size:90%;"><a href="/wiki/Gib_Type#Default" title="Gib Type">Default</a>
+</td>
+<td style="border-bottom:1px solid black;" colspan="2">
+</td></tr>
+<tr>
+<th class="datatable" style="width:108px; font-size:90%; text-align:left;" colspan="2">Ability Upgrades
+</th>
+<td class="datatable" style="width:48px;"><div style="margin-left:60%;"><a href="/wiki/Aghanim%27s_Scepter" title="Upgradable by Aghanim's Scepter."><img alt="Upgradable by Aghanim's Scepter." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="22" height="22" data-image-name="Aghanim's Scepter alt symbol.png" data-image-key="Aghanim%27s_Scepter_alt_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Aghanim%27s_Scepter_alt_symbol.png/revision/latest/scale-to-width-down/22?cb=20201219120421" class="lazyload"></a><br><a href="/wiki/Aghanim%27s_Shard" title="Upgradable by Aghanim's Shard."><img alt="Upgradable by Aghanim's Shard." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="22" height="12" data-image-name="Aghanim's Shard alt symbol.png" data-image-key="Aghanim%27s_Shard_alt_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Aghanim%27s_Shard_alt_symbol.png/revision/latest/scale-to-width-down/22?cb=20201219120430" class="lazyload"></a><br><br></div>
+</td>
+<td class="datatable" style="width:48px; padding-left:5px; font-size:90%; text-align:left;" colspan="3"><span class="image-link"><a href="/wiki/Faceless_Void" title="Faceless Void"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="22" height="22" class="noprint lazyload" data-image-name="Time Walk icon.png" data-image-key="Time_Walk_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Time_Walk_icon.png/revision/latest/scale-to-width-down/22?cb=20111005115055"></a> <a href="/wiki/Faceless_Void#Time_Walk" title="Faceless Void">Time Walk</a></span><br><span class="image-link"><a href="/wiki/Faceless_Void" title="Faceless Void"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="22" height="22" class="noprint lazyload" data-image-name="Time Walk icon.png" data-image-key="Time_Walk_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Time_Walk_icon.png/revision/latest/scale-to-width-down/22?cb=20111005115055"></a> <a href="/wiki/Faceless_Void#Time_Walk" title="Faceless Void">Time Walk</a></span><br><span class="image-link"><a href="/wiki/Faceless_Void" title="Faceless Void"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="22" height="22" class="noprint lazyload" data-image-name="Reverse Time Walk icon.png" data-image-key="Reverse_Time_Walk_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Reverse_Time_Walk_icon.png/revision/latest/scale-to-width-down/22?cb=20201219000040"></a> <a href="/wiki/Faceless_Void#Reverse_Time_Walk" title="Faceless Void">Reverse Time Walk</a></span><br>
+</td></tr></tbody></table>
+</td></tr></tbody>

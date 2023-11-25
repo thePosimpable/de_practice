@@ -1,0 +1,15 @@
+Stop Rolling<div style="float:right;"><a href="/wiki/Abilities#Cast_event" title="Does not proc any on-cast effects when cast."><img alt="Does not proc any on-cast effects when cast." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="20" height="20" data-image-name="On cast proc symbol.png" data-image-key="On_cast_proc_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/On_cast_proc_symbol.png/revision/latest/scale-to-width-down/20?cb=20180323111814" class="lazyload"></a> <kbd class="keyboard-key nowrap" style="border: 1px solid #aaa; border-radius:0.2em; box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); background-color:#f9f9f9; background-image: linear-gradient(to bottom, #eee, #f9f9f9, #eee); color:#414141; padding:0.2em 0.25em; font-family: inherit; font-size:0.93em;"><span class="tooltip" title="Hotkey" style="cursor: help; border-bottom: 1px dotted;">R</span></kbd><kbd class="keyboard-key nowrap" style="border: 1px solid #aaa; border-radius:0.2em; box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1); background-color:#f9f9f9; background-image: linear-gradient(to bottom, #eee, #f9f9f9, #eee); color:#414141; opacity:0.65; padding:0.2em 0.25em; font-family: inherit; font-size:0.93em;"><span class="tooltip" title="Legacy Key" style="cursor: help; border-bottom: 1px dotted;">R</span></kbd></div>
+</div><div class="ability-head"><div class="ico_active"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Stop_Rolling_icon.png/revision/latest?cb=20171030223449" class="image"><img alt="Stop Rolling icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="128" height="128" data-image-name="Stop Rolling icon.png" data-image-key="Stop_Rolling_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Stop_Rolling_icon.png/revision/latest/scale-to-width-down/128?cb=20171030223449" class="lazyload"></a></div>
+<div class="ability-description">
+<div style="padding: 15px 5px; font-size: 85%; line-height: 100%; text-align: center;">
+<div style="display: inline-block; width: 32%; vertical-align: top;"><b>Ability</b><br><a href="/wiki/Abilities#No_Target" title="Abilities">No Target</a></div>
+<div style="display: inline-block; width: 32%; vertical-align: top;"><b>Affects</b><br>Self</div>
+<div style="display: inline-block; width: 32%; vertical-align: top;"></div>
+</div>
+<div style="vertical-align: top; padding: 3px 5px; border-top: 1px solid black;">Halt!</div>
+</div>
+</div>
+<div style="vertical-align:top; padding: 3px 5px; display:inline-block;"><div><b>Cast Animation:</b> <span class="tooltip" title="Cast point" style="cursor: help; border-bottom: 1px dotted;">0</span>+<span class="tooltip" title="Cast backswing" style="cursor: help; border-bottom: 1px dotted;">0</span>
+</div>
+<div class="ability-lore"><div style="display:inline-block; width:450px; margin-top: 5px; padding: 2px 10px 5px;text-align:center"><i>Donté Panlin stops when he pleases.</i></div></div>
+</div></div>

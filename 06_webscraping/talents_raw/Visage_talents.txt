@@ -1,0 +1,117 @@
+
+
+<tbody><tr>
+<th class="header" colspan="10"><span class="image-link"><a href="/wiki/Visage" title="Visage"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Gravekeeper's Cloak icon.png" data-image-key="Gravekeeper%27s_Cloak_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c2/Gravekeeper%27s_Cloak_icon.png/revision/latest/scale-to-width-down/16?cb=20120725222716"></a> <a href="/wiki/Visage#Gravekeeper.27s_Cloak" title="Visage">Gravekeeper's Cloak</a></span> Damage Reduction<sub>/ Layer</sub><br>
+</th></tr>
+<tr>
+<td class="header" style="width:10%;"><b>Level <sub>/ Layer(s)</sub></b>
+</td>
+<td style="width:10%;"><b>1</b>
+</td>
+<td style="width:10%;"><b>2</b>
+</td>
+<td style="width:10%;"><b>3</b>
+</td>
+<td style="width:10%;"><b>4</b>
+</td>
+<td style="width:10%;"><b>5</b><br><a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>
+</td>
+<td style="width:10%;"><b>6</b><br><a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>
+</td>
+<td style="width:10%;"><b>7</b><br><a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>
+</td>
+<td style="width:10%;"><b>8</b><br><a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>
+</td>
+<td style="width:10%;"><b>9</b><br><a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>
+</td></tr>
+<tr>
+<td><b>Level 1</b>
+</td>
+<td style="">8%
+</td>
+<td style="">16%
+</td>
+<td style="">24%
+</td>
+<td style="">32%
+</td>
+<td style="color:#CF6A32; font-weight:bold;">40%
+</td>
+<td style="color:#CF6A32; font-weight:bold;">48%
+</td>
+<td style="color:#CF6A32; font-weight:bold;">56%
+</td>
+<td style="color:#CF6A32; font-weight:bold;">64%
+</td>
+<td style="color:#CF6A32; font-weight:bold;">72%
+</td></tr>
+<tr>
+<td><b>Level 2</b>
+</td>
+<td style="">12%
+</td>
+<td style="">24%
+</td>
+<td style="">36%
+</td>
+<td style="">48%
+</td>
+<td style="color:#CF6A32; font-weight:bold;">60%
+</td>
+<td style="color:#CF6A32; font-weight:bold;">72%
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td></tr>
+<tr>
+<td><b>Level 3</b>
+</td>
+<td style="">16%
+</td>
+<td style="">32%
+</td>
+<td style="">48%
+</td>
+<td style="">64%
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td></tr>
+<tr>
+<td><b>Level 4</b>
+</td>
+<td style="">20%
+</td>
+<td style="">40%
+</td>
+<td style="">60%
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td>
+<td style="color:black; background:#70B04A; font-weight:bold;"><span class="tooltip" title="Damage Reduction Cap" style="cursor: help; border-bottom: 1px dotted;">80%</span>
+</td></tr>
+
+</tbody><tbody><tr><th colspan="3" style="height:40px;background-color:#0C2A5A"><a href="/wiki/Talents" title="Talents"><span style="color:white; font-size:14pt;">Hero Talents</span></a></th></tr>
+<tr><td style="width:240px">+1 <span class="image-link"><a href="/wiki/Familiar" title="Familiar"><img alt="Visage Familiar icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="14" class="noprint lazyload" data-image-name="Visage Familiar icon.png" data-image-key="Visage_Familiar_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Visage_Familiar_icon.png/revision/latest/scale-to-width-down/24?cb=20170416183155"></a> <a href="/wiki/Familiar" title="Familiar">Familiar</a></span></td><th style="padding:10px;background-color:hsl(217, 76%, 20%);font-size:13pt;color:white">25</th><td style="width:240px">+5 <span class="image-link"><a href="/wiki/Visage" title="Visage"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Gravekeeper's Cloak icon.png" data-image-key="Gravekeeper%27s_Cloak_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c2/Gravekeeper%27s_Cloak_icon.png/revision/latest/scale-to-width-down/16?cb=20120725222716"></a> <a href="/wiki/Visage#Gravekeeper.27s_Cloak" title="Visage">Gravekeeper's Cloak</a></span> Stacks</td></tr>
+<tr><td style="width:240px">+40 <span class="image-link"><a href="/wiki/Familiar" title="Familiar"><img alt="Visage Familiar icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="14" class="noprint lazyload" data-image-name="Visage Familiar icon.png" data-image-key="Visage_Familiar_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Visage_Familiar_icon.png/revision/latest/scale-to-width-down/24?cb=20170416183155"></a> <a href="/wiki/Familiar" title="Familiar">Familiars</a></span> Movement Speed</td><th style="padding:10px;background-color:hsl(217, 76%, 30%);font-size:13pt;color:white">20</th><td style="width:240px">+20 <span class="image-link"><a href="/wiki/Visage" title="Visage"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Soul Assumption icon.png" data-image-key="Soul_Assumption_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Soul_Assumption_icon.png/revision/latest/scale-to-width-down/16?cb=20120725222707"></a> <a href="/wiki/Visage#Soul_Assumption" title="Visage">Soul Assumption</a></span> Damage Per Charge</td></tr>
+<tr><td style="width:240px"><span class="image-link"><a href="/wiki/Visage" title="Visage"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Soul Assumption icon.png" data-image-key="Soul_Assumption_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Soul_Assumption_icon.png/revision/latest/scale-to-width-down/16?cb=20120725222707"></a> <a href="/wiki/Visage#Soul_Assumption" title="Visage">Soul Assumption</a></span> Hits 2 Targets</td><th style="padding:10px;background-color:hsl(217, 76%, 40%);font-size:13pt;color:white">15</th><td style="width:240px">-3 <a href="/wiki/Armor_Corruption" title="Armor Corruption: Reduces armor on attack."><img alt="Armor Corruption: Reduces armor on attack." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Armor Corruption icon.png" data-image-key="Armor_Corruption_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Armor_Corruption_icon.png/revision/latest/scale-to-width-down/16?cb=20171124215322" class="lazyload"></a> <a href="/wiki/Armor_Corruption" class="mw-redirect" title="Armor Corruption">Armor Corruption</a></td></tr>
+<tr><td style="width:240px">+25 <a href="/wiki/Attack_damage" title="Attack damage">Damage</a></td><th style="padding:10px;background-color:hsl(217, 76%, 50%);font-size:13pt;color:white">10</th><td style="width:240px">-3s <span class="image-link"><a href="/wiki/Visage" title="Visage"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Grave Chill icon.png" data-image-key="Grave_Chill_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c2/Grave_Chill_icon.png/revision/latest/scale-to-width-down/16?cb=20120725222658"></a> <a href="/wiki/Visage#Grave_Chill" title="Visage">Grave Chill</a></span> Cooldown</td></tr>
+</tbody>
