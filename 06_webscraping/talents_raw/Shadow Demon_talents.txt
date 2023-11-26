@@ -1,0 +1,149 @@
+
+
+<tbody><tr>
+<th class="header" rowspan="2" style="width:10%;">Level
+</th>
+<th class="header" colspan="10" style="width:90%;"><span class="image-link"><a href="/wiki/Shadow_Demon" title="Shadow Demon"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Shadow Poison icon.png" data-image-key="Shadow_Poison_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Shadow_Poison_icon.png/revision/latest/scale-to-width-down/16?cb=20120314230307"></a> <a href="/wiki/Shadow_Demon#Shadow_Poison" title="Shadow Demon">Shadow Poison</a></span> Damage Calculations <sub>/ Stack</sub>
+</th></tr>
+<tr>
+<td style="width:9%"><b>1st</b>
+</td>
+<td style="width:9%"><b>2nd</b>
+</td>
+<td style="width:9%"><b>3th</b>
+</td>
+<td style="width:9%"><b>4th</b>
+</td>
+<td style="width:9%"><b>5th</b>
+</td>
+<td style="width:9%"><b>6th</b>
+</td>
+<td style="width:9%"><b>7th</b>
+</td>
+<td style="width:9%"><b>8th</b>
+</td>
+<td style="width:9%"><b>9th</b>
+</td>
+<td style="width:9%"><b>10th</b>
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 1</b> (<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>24</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">27.6</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>48</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">55.2</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>96</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">110.4</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>192</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">220.8</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>384</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">441.6</span></span>)
+</td>
+<td>434 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">499.1</span></span>)
+</td>
+<td>484 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">556.6</span></span>)
+</td>
+<td>534 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">614.1</span></span>)
+</td>
+<td>584 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">671.6</span></span>)
+</td>
+<td>634 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">729.1</span></span>)
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:right">Difference:
+</td>
+<td colspan="1"><span style="font-weight:bold; color:red;">134</span> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">154.1</span></span>)
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 2</b> (<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>36</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">41.4</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>72</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">82.8</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>144</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">165.6</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>288</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">331.2</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>576</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">662.4</span></span>)
+</td>
+<td>626 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">719.9</span></span>)
+</td>
+<td>676 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">777.4</span></span>)
+</td>
+<td>726 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">834.9</span></span>)
+</td>
+<td>776 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">892.4</span></span>)
+</td>
+<td>826 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">949.9</span></span>)
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:right">Difference:
+</td>
+<td colspan="1"><span style="font-weight:bold; color:red;">326</span> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">374.9</span></span>)
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 3</b> (<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>48</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">55.2</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>96</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">110.4</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>192</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">220.8</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>384</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">441.6</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>768</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">883.2</span></span>)
+</td>
+<td>818 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">940.7</span></span>)
+</td>
+<td>868 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">998.2</span></span>)
+</td>
+<td>918 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">1055.7</span></span>)
+</td>
+<td>968 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">1113.2</span></span>)
+</td>
+<td>1018 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">1170.7</span></span>)
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:right">Difference:
+</td>
+<td colspan="1"><span style="font-weight:bold; color:red;">518</span> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">595.7</span></span>)
+</td></tr>
+<tr>
+<td rowspan="2"><b>Level 4</b> (<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>60</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">69</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>120</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">138</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>240</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">276</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>480</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">552</span></span>)
+</td>
+<td style="color:black; background:#FFAEA3;"><b>960</b> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">1104</span></span>)
+</td>
+<td>1010 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">1161.5</span></span>)
+</td>
+<td>1060 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">1219</span></span>)
+</td>
+<td>1110 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">1276.5</span></span>)
+</td>
+<td>1160 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">1334</span></span>)
+</td>
+<td>1210 (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">1391.5</span></span>)
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:right">Difference:
+</td>
+<td colspan="1"><span style="font-weight:bold; color:red;">710</span> (<span title="With level 10 Talent" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#CF6A32;">816.5</span></span>)
+</td></tr>
+
+<tr>
+<th colspan="11">The difference in damage above is calculated between 2 stacks of five and 1 stack of ten.
+</th></tr></tbody><tbody><tr><th colspan="3" style="height:40px;background-color:#0C2A5A"><a href="/wiki/Talents" title="Talents"><span style="color:white; font-size:14pt;">Hero Talents</span></a></th></tr>
+<tr><td style="width:240px">2 Charges of <span class="image-link"><a href="/wiki/Shadow_Demon" title="Shadow Demon"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Disruption icon.png" data-image-key="Disruption_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Disruption_icon.png/revision/latest/scale-to-width-down/16?cb=20120314230307"></a> <a href="/wiki/Shadow_Demon#Disruption" title="Shadow Demon">Disruption</a></span></td><th style="padding:10px;background-color:hsl(217, 76%, 20%);font-size:13pt;color:white">25</th><td style="width:240px">-30s <span class="image-link"><a href="/wiki/Shadow_Demon" title="Shadow Demon"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Demonic Purge icon.png" data-image-key="Demonic_Purge_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Demonic_Purge_icon.png/revision/latest/scale-to-width-down/16?cb=20120314230307"></a> <a href="/wiki/Shadow_Demon#Demonic_Purge" title="Shadow Demon">Demonic Purge</a></span> Cooldown</td></tr>
+<tr><td style="width:240px">-1.25s <span class="image-link"><a href="/wiki/Shadow_Demon" title="Shadow Demon"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Shadow Poison icon.png" data-image-key="Shadow_Poison_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Shadow_Poison_icon.png/revision/latest/scale-to-width-down/16?cb=20120314230307"></a> <a href="/wiki/Shadow_Demon#Shadow_Poison" title="Shadow Demon">Shadow Poison</a></span> Cooldown</td><th style="padding:10px;background-color:hsl(217, 76%, 30%);font-size:13pt;color:white">20</th><td style="width:240px">-6s <span class="image-link"><a href="/wiki/Shadow_Demon" title="Shadow Demon"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Soul Catcher icon.png" data-image-key="Soul_Catcher_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e8/Soul_Catcher_icon.png/revision/latest/scale-to-width-down/16?cb=20120314230307"></a> <a href="/wiki/Shadow_Demon#Soul_Catcher" title="Shadow Demon">Soul Catcher</a></span> Cooldown</td></tr>
+<tr><td style="width:240px">+200 <span class="image-link"><a href="/wiki/Shadow_Demon" title="Shadow Demon"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Demonic Purge icon.png" data-image-key="Demonic_Purge_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Demonic_Purge_icon.png/revision/latest/scale-to-width-down/16?cb=20120314230307"></a> <a href="/wiki/Shadow_Demon#Demonic_Purge" title="Shadow Demon">Demonic Purge</a></span> Damage</td><th style="padding:10px;background-color:hsl(217, 76%, 40%);font-size:13pt;color:white">15</th><td style="width:240px">+25 <a href="/wiki/Movement_speed" title="Movement speed">Movement Speed</a></td></tr>
+<tr><td style="width:240px">+10 <span style="white-space:nowrap"><a href="/wiki/Strength" title="Strength"><img alt="Strength attribute symbol.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="20" height="20" class="noprint lazyload" data-image-name="Strength attribute symbol.png" data-image-key="Strength_attribute_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Strength_attribute_symbol.png/revision/latest/scale-to-width-down/20?cb=20180323111829"></a> <a href="/wiki/Strength" title="Strength">Strength</a></span></td><th style="padding:10px;background-color:hsl(217, 76%, 50%);font-size:13pt;color:white">10</th><td style="width:240px">+15% <span class="image-link"><a href="/wiki/Shadow_Demon" title="Shadow Demon"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Shadow Poison icon.png" data-image-key="Shadow_Poison_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Shadow_Poison_icon.png/revision/latest/scale-to-width-down/16?cb=20120314230307"></a> <a href="/wiki/Shadow_Demon#Shadow_Poison" title="Shadow Demon">Shadow Poison</a></span> Damage</td></tr>
+</tbody>

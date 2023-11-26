@@ -1,0 +1,131 @@
+
+<tbody><tr>
+<th class="header" colspan="4">Acquirable Castable Abilities with <span class="image-link"><a href="/wiki/Doom" title="Doom"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Devour icon.png" data-image-key="Devour_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Devour_icon.png/revision/latest/scale-to-width-down/16?cb=20111005114244"></a> <a href="/wiki/Doom#Devour" title="Doom">Devour</a></span>
+</th></tr>
+<tr>
+<th style="width: 30%">Neutral Creep Abilities
+</th>
+<th style="width: 10%">Cast Point
+</th>
+<th style="width: 15%" colspan="2"><span class="image-link"><a href="/wiki/Doom" title="Doom"><img alt="Doom minimap icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="20" height="20" class="noprint pixelart lazyload" data-image-name="Doom minimap icon.png" data-image-key="Doom_minimap_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Doom_minimap_icon.png/revision/latest/scale-to-width-down/20?cb=20130110213730"></a> <a class="mw-selflink selflink">Doom</a></span>'s <a href="/wiki/Cast_animation" title="Cast animation">Cast Backswing</a>
+</th></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Ancient_Black_Dragon#Fireball" title="Ancient Black Dragon#Fireball"><img alt="Fireball (Ancient Black Dragon) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Fireball (Ancient Black Dragon) icon.png" data-image-key="Fireball_%28Ancient_Black_Dragon%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Fireball_%28Ancient_Black_Dragon%29_icon.png/revision/latest/scale-to-width-down/24?cb=20151218015446" class="lazyload"></a> <a href="/wiki/Ancient_Black_Dragon" title="Ancient Black Dragon"><span style="color:white;">Ancient Black Dragon</span></a> – <a href="/wiki/Ancient_Black_Dragon#Fireball" title="Ancient Black Dragon"><span style="color:white;">Fireball</span></a></th>
+<th>0.3</th>
+<th>0.8</th>
+<th><a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>
+</th></tr>
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Ancient_Thunderhide#Frenzy" title="Ancient Thunderhide#Frenzy"><img alt="Frenzy (Ancient Thunderhide) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Frenzy (Ancient Thunderhide) icon.png" data-image-key="Frenzy_%28Ancient_Thunderhide%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a3/Frenzy_%28Ancient_Thunderhide%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150913125837" class="lazyload"></a> <a href="/wiki/Ancient_Thunderhide" title="Ancient Thunderhide"><span style="color:white;">Ancient Thunderhide</span></a> – <a href="/wiki/Ancient_Thunderhide#Frenzy" title="Ancient Thunderhide"><span style="color:white;">Frenzy</span></a></th>
+<th>0</th>
+<th>1.1</th>
+<th><a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>
+</th></tr>
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Ancient_Thunderhide#Slam" title="Ancient Thunderhide#Slam"><img alt="Slam (Ancient Thunderhide) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Slam (Ancient Thunderhide) icon.png" data-image-key="Slam_%28Ancient_Thunderhide%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Slam_%28Ancient_Thunderhide%29_icon.png/revision/latest/scale-to-width-down/24?cb=20120628093024" class="lazyload"></a> <a href="/wiki/Ancient_Thunderhide" title="Ancient Thunderhide"><span style="color:white;">Ancient Thunderhide</span></a> – <a href="/wiki/Ancient_Thunderhide#Slam" title="Ancient Thunderhide"><span style="color:white;">Slam</span></a></th>
+<th>0.3</th>
+<th>0.8</th>
+<th><a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>
+</th></tr>
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Centaur_Conqueror#War_Stomp" title="Centaur Conqueror#War Stomp"><img alt="War Stomp (Centaur Conqueror) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="War Stomp (Centaur Conqueror) icon.png" data-image-key="War_Stomp_%28Centaur_Conqueror%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f6/War_Stomp_%28Centaur_Conqueror%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150912201208" class="lazyload"></a> <a href="/wiki/Centaur_Conqueror" title="Centaur Conqueror"><span style="color:white;">Centaur Conqueror</span></a> – <a href="/wiki/Centaur_Conqueror#War_Stomp" title="Centaur Conqueror"><span style="color:white;">War Stomp</span></a></th>
+<th>0.4</th>
+<th>0.7
+</th>
+<td>-
+</td></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Dark_Troll_Summoner#Ensnare" title="Dark Troll Summoner#Ensnare"><img alt="Ensnare (Dark Troll Summoner) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Ensnare (Dark Troll Summoner) icon.png" data-image-key="Ensnare_%28Dark_Troll_Summoner%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c6/Ensnare_%28Dark_Troll_Summoner%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150911140943" class="lazyload"></a> <a href="/wiki/Dark_Troll_Summoner" title="Dark Troll Summoner"><span style="color:white;">Dark Troll Summoner</span></a> – <a href="/wiki/Dark_Troll_Summoner#Ensnare" title="Dark Troll Summoner"><span style="color:white;">Ensnare</span></a></th>
+<th>0.3</th>
+<th>0.8
+</th>
+<td>-
+</td></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Dark_Troll_Summoner#Raise_Dead" title="Dark Troll Summoner#Raise Dead"><img alt="Raise Dead (Dark Troll Summoner) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Raise Dead (Dark Troll Summoner) icon.png" data-image-key="Raise_Dead_%28Dark_Troll_Summoner%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Raise_Dead_%28Dark_Troll_Summoner%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150912233301" class="lazyload"></a> <a href="/wiki/Dark_Troll_Summoner" title="Dark Troll Summoner"><span style="color:white;">Dark Troll Summoner</span></a> – <a href="/wiki/Dark_Troll_Summoner#Raise_Dead" title="Dark Troll Summoner"><span style="color:white;">Raise Dead</span></a></th>
+<th>0.3</th>
+<th>0.8
+</th>
+<td>-
+</td></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Harpy_Stormcrafter#Chain_Lightning" title="Harpy Stormcrafter#Chain Lightning"><img alt="Chain Lightning (Harpy Stormcrafter) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Chain Lightning (Harpy Stormcrafter) icon.png" data-image-key="Chain_Lightning_%28Harpy_Stormcrafter%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Chain_Lightning_%28Harpy_Stormcrafter%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150912184121" class="lazyload"></a> <a href="/wiki/Harpy_Stormcrafter" title="Harpy Stormcrafter"><span style="color:white;">Harpy Stormcrafter</span></a> – <a href="/wiki/Harpy_Stormcrafter#Chain_Lightning" title="Harpy Stormcrafter"><span style="color:white;">Chain Lightning</span></a></th>
+<th>0.3</th>
+<th>0.8
+</th>
+<td>-
+</td></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Hellbear_Smasher#Thunder_Clap" title="Hellbear Smasher#Thunder Clap"><img alt="Thunder Clap (Hellbear Smasher) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Thunder Clap (Hellbear Smasher) icon.png" data-image-key="Thunder_Clap_%28Hellbear_Smasher%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Thunder_Clap_%28Hellbear_Smasher%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150905213905" class="lazyload"></a> <a href="/wiki/Hellbear_Smasher" title="Hellbear Smasher"><span style="color:white;">Hellbear Smasher</span></a> – <a href="/wiki/Hellbear_Smasher#Thunder_Clap" title="Hellbear Smasher"><span style="color:white;">Thunder Clap</span></a></th>
+<th>0.4</th>
+<th>0.7
+</th>
+<td>-
+</td></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Hill_Troll_Priest#Heal" title="Hill Troll Priest#Heal"><img alt="Heal (Hill Troll Priest) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Heal (Hill Troll Priest) icon.png" data-image-key="Heal_%28Hill_Troll_Priest%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Heal_%28Hill_Troll_Priest%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150912172232" class="lazyload"></a> <a href="/wiki/Hill_Troll_Priest" title="Hill Troll Priest"><span style="color:white;">Hill Troll Priest</span></a> – <a href="/wiki/Hill_Troll_Priest#Heal" title="Hill Troll Priest"><span style="color:white;">Heal</span></a></th>
+<th>0.5</th>
+<th>0.6
+</th>
+<td>-
+</td></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Mud_Golem#Hurl_Boulder" title="Mud Golem#Hurl Boulder"><img alt="Hurl Boulder (Mud Golem) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Hurl Boulder (Mud Golem) icon.png" data-image-key="Hurl_Boulder_%28Mud_Golem%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Hurl_Boulder_%28Mud_Golem%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150501122354" class="lazyload"></a> <a href="/wiki/Mud_Golem" title="Mud Golem"><span style="color:white;">Mud Golem</span></a> – <a href="/wiki/Mud_Golem#Hurl_Boulder" title="Mud Golem"><span style="color:white;">Hurl Boulder</span></a></th>
+<th>0.3</th>
+<th>0.8
+</th>
+<td>-
+</td></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Shard_Golem#Hurl_Boulder" title="Shard Golem#Hurl Boulder"><img alt="Hurl Boulder (Mud Golem) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Hurl Boulder (Mud Golem) icon.png" data-image-key="Hurl_Boulder_%28Mud_Golem%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Hurl_Boulder_%28Mud_Golem%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150501122354" class="lazyload"></a> <a href="/wiki/Shard_Golem" title="Shard Golem"><span style="color:white;">Shard Golem</span></a> – <a href="/wiki/Shard_Golem#Hurl_Boulder" title="Shard Golem"><span style="color:white;">Hurl Boulder</span></a></th>
+<th>0.3</th>
+<th>0.8
+</th>
+<td>-
+</td></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Ogre_Frostmage#Ice_Armor" title="Ogre Frostmage#Ice Armor"><img alt="Ice Armor (Ogre Frostmage) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Ice Armor (Ogre Frostmage) icon.png" data-image-key="Ice_Armor_%28Ogre_Frostmage%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/66/Ice_Armor_%28Ogre_Frostmage%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150912222722" class="lazyload"></a> <a href="/wiki/Ogre_Frostmage" title="Ogre Frostmage"><span style="color:white;">Ogre Frostmage</span></a> – <a href="/wiki/Ogre_Frostmage#Ice_Armor" title="Ogre Frostmage"><span style="color:white;">Ice Armor</span></a></th>
+<th>0.56</th>
+<th>0.54
+</th>
+<td>-
+</td></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Satyr_Banisher#Purge" title="Satyr Banisher#Purge"><img alt="Purge (Satyr Banisher) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Purge (Satyr Banisher) icon.png" data-image-key="Purge_%28Satyr_Banisher%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Purge_%28Satyr_Banisher%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150912210427" class="lazyload"></a> <a href="/wiki/Satyr_Banisher" title="Satyr Banisher"><span style="color:white;">Satyr Banisher</span></a> – <a href="/wiki/Satyr_Banisher#Purge" title="Satyr Banisher"><span style="color:white;">Purge</span></a></th>
+<th>0.2</th>
+<th>0.9
+</th>
+<td>-
+</td></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Satyr_Mindstealer#Mana_Burn" title="Satyr Mindstealer#Mana Burn"><img alt="Mana Burn (Satyr Mindstealer) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Mana Burn (Satyr Mindstealer) icon.png" data-image-key="Mana_Burn_%28Satyr_Mindstealer%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Mana_Burn_%28Satyr_Mindstealer%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150912210917" class="lazyload"></a> <a href="/wiki/Satyr_Mindstealer" title="Satyr Mindstealer"><span style="color:white;">Satyr Mindstealer</span></a> – <a href="/wiki/Satyr_Mindstealer#Mana_Burn" title="Satyr Mindstealer"><span style="color:white;">Mana Burn</span></a></th>
+<th>0.3</th>
+<th>0.8
+</th>
+<td>-
+</td></tr>
+
+<tr>
+<th style="text-align:left; font-size:110%; background-color:#00A388; color:white;"><a href="/wiki/Satyr_Tormenter#Shockwave" title="Satyr Tormenter#Shockwave"><img alt="Shockwave (Satyr Tormenter) icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="24" data-image-name="Shockwave (Satyr Tormenter) icon.png" data-image-key="Shockwave_%28Satyr_Tormenter%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/de/Shockwave_%28Satyr_Tormenter%29_icon.png/revision/latest/scale-to-width-down/24?cb=20150912211245" class="lazyload"></a> <a href="/wiki/Satyr_Tormenter" title="Satyr Tormenter"><span style="color:white;">Satyr Tormenter</span></a> – <a href="/wiki/Satyr_Tormenter#Shockwave" title="Satyr Tormenter"><span style="color:white;">Shockwave</span></a></th>
+<th>0.5</th>
+<th>0.6
+</th>
+<td>-
+</td></tr>
+</tbody><tbody><tr><th colspan="3" style="height:40px;background-color:#0C2A5A"><a href="/wiki/Talents" title="Talents"><span style="color:white; font-size:14pt;">Hero Talents</span></a></th></tr>
+<tr><td style="width:240px">+150% <a href="/wiki/Cleave" title="Cleave">Cleave</a></td><th style="padding:10px;background-color:hsl(217, 76%, 20%);font-size:13pt;color:white">25</th><td style="width:240px">+2.1% <span class="image-link"><a href="/wiki/Doom" title="Doom"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Infernal Blade icon.png" data-image-key="Infernal_Blade_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Infernal_Blade_icon.png/revision/latest/scale-to-width-down/16?cb=20151217055139"></a> <a href="/wiki/Doom#Infernal_Blade" title="Doom">Infernal Blade</a></span> Damage</td></tr>
+<tr><td style="width:240px">+15% <span class="image-link"><a href="/wiki/Doom" title="Doom"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Scorched Earth icon.png" data-image-key="Scorched_Earth_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Scorched_Earth_icon.png/revision/latest/scale-to-width-down/16?cb=20111005114246"></a> <a href="/wiki/Doom#Scorched_Earth" title="Doom">Scorched Earth</a></span> Movement Speed</td><th style="padding:10px;background-color:hsl(217, 76%, 30%);font-size:13pt;color:white">20</th><td style="width:240px">+30 <span class="image-link"><a href="/wiki/Doom" title="Doom"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Doom ability icon.png" data-image-key="Doom_ability_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Doom_ability_icon.png/revision/latest/scale-to-width-down/16?cb=20130123005239"></a> <a href="/wiki/Doom#Doom" title="Doom">Doom</a></span> DPS</td></tr>
+<tr><td style="width:240px"><span class="image-link"><a href="/wiki/Doom" title="Doom"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Devour icon.png" data-image-key="Devour_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Devour_icon.png/revision/latest/scale-to-width-down/16?cb=20111005114244"></a> <a href="/wiki/Doom#Devour" title="Doom">Devour</a></span> Can Target <a href="/wiki/Ancient_creep" class="mw-redirect" title="Ancient creep">Ancients</a></td><th style="padding:10px;background-color:hsl(217, 76%, 40%);font-size:13pt;color:white">15</th><td style="width:240px">-8s <span class="image-link"><a href="/wiki/Doom" title="Doom"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Scorched Earth icon.png" data-image-key="Scorched_Earth_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Scorched_Earth_icon.png/revision/latest/scale-to-width-down/16?cb=20111005114246"></a> <a href="/wiki/Doom#Scorched_Earth" title="Doom">Scorched Earth</a></span> Cooldown</td></tr>
+<tr><td style="width:240px">+20 <span class="image-link"><a href="/wiki/Doom" title="Doom"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Scorched Earth icon.png" data-image-key="Scorched_Earth_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Scorched_Earth_icon.png/revision/latest/scale-to-width-down/16?cb=20111005114246"></a> <a href="/wiki/Doom#Scorched_Earth" title="Doom">Scorched Earth</a></span> Damage</td><th style="padding:10px;background-color:hsl(217, 76%, 50%);font-size:13pt;color:white">10</th><td style="width:240px">+12% <a href="/wiki/Magic_resistance" title="Magic resistance">Magic Resistance</a></td></tr>
+</tbody>

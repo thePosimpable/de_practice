@@ -1,0 +1,300 @@
+
+
+<tbody><tr>
+<th class="header" rowspan="2" style="width:10%;"><span class="image-link"><a href="/wiki/Bristleback" title="Bristleback"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Quill Spray icon.png" data-image-key="Quill_Spray_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Quill_Spray_icon.png/revision/latest/scale-to-width-down/16?cb=20130328004403"></a> <a href="/wiki/Bristleback#Quill_Spray" title="Bristleback">Quill Spray</a></span> Level
+</th>
+<th class="header" colspan="20" style="width:90%;">Number of Stacks for Max Damage (550)
+</th></tr>
+<tr>
+<th style="width:4.5%"><b>1</b>
+</th>
+<th style="width:4.5%"><b>2</b>
+</th>
+<th style="width:4.5%"><b>3</b>
+</th>
+<th style="width:4.5%"><b>4</b>
+</th>
+<th style="width:4.5%"><b>5</b>
+</th>
+<th style="width:4.5%"><b>6</b>
+</th>
+<th style="width:4.5%"><b>7</b>
+</th>
+<th style="width:4.5%"><b>8</b>
+</th>
+<th style="width:4.5%"><b>9</b>
+</th>
+<th style="width:4.5%"><b>10</b>
+</th>
+<th style="width:4.5%"><b>11</b>
+</th>
+<th style="width:4.5%"><b>12</b>
+</th>
+<th style="width:4.5%"><b>13</b>
+</th>
+<th style="width:4.5%"><b>14</b>
+</th>
+<th style="width:4.5%"><b>15</b>
+</th>
+<th style="width:4.5%"><b>16</b>
+</th>
+<th style="width:4.5%"><b>17</b>
+</th>
+<th style="width:4.5%"><b>18</b>
+</th>
+<th style="width:4.5%"><b>19</b>
+</th>
+<th style="width:4.5%"><b>20</b>
+</th></tr>
+<tr>
+<td rowspan="2" style="width:10%;"><b>Level 1</b><br>(<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="width:4.5%">25
+</td>
+<td>53
+</td>
+<td>81
+</td>
+<td>109
+</td>
+<td>137
+</td>
+<td>165
+</td>
+<td>193
+</td>
+<td>221
+</td>
+<td>249
+</td>
+<td>277
+</td>
+<td>305
+</td>
+<td>333
+</td>
+<td>361
+</td>
+<td>389
+</td>
+<td>417
+</td>
+<td>445
+</td>
+<td>473
+</td>
+<td>501
+</td>
+<td>529
+</td>
+<td style="background:#70B04A"><span style="color:white; font-weight:bold"><span class="tooltip" title="Max Damage" style="cursor: help; border-bottom: 1px dotted;">550</span></span>
+</td></tr>
+<tr>
+<td style="width:4.5%"><span><span style="font-weight:bold; color:#CF6A32;">25</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">73</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">121</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">169</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">217</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">265</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">313</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">361</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">409</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">457</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">505</span></span>
+</td>
+<td style="background:#70B04A"><span style="color:white; font-weight:bold"><span class="tooltip" title="Max Damage" style="cursor: help; border-bottom: 1px dotted;">550</span></span>
+</td></tr>
+<tr>
+<td rowspan="2" style="width:10%;"><b>Level 2</b><br>(<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="width:4.5%">45
+</td>
+<td>75
+</td>
+<td>105
+</td>
+<td>135
+</td>
+<td>165
+</td>
+<td>195
+</td>
+<td>225
+</td>
+<td>255
+</td>
+<td>285
+</td>
+<td>315
+</td>
+<td>345
+</td>
+<td>375
+</td>
+<td>405
+</td>
+<td>435
+</td>
+<td>465
+</td>
+<td>495
+</td>
+<td>525
+</td>
+<td style="background:#70B04A"><span style="color:white; font-weight:bold"><span class="tooltip" title="Max Damage" style="cursor: help; border-bottom: 1px dotted;">550</span></span>
+</td></tr>
+<tr>
+<td style="width:4.5%"><span><span style="font-weight:bold; color:#CF6A32;">45</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">95</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">145</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">195</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">245</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">295</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">345</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">395</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">445</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">495</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">545</span></span>
+</td>
+<td style="background:#70B04A"><span style="color:white; font-weight:bold"><span class="tooltip" title="Max Damage" style="cursor: help; border-bottom: 1px dotted;">550</span></span>
+</td></tr>
+<tr>
+<td rowspan="2" style="width:10%;"><b>Level 3</b><br>(<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="width:4.5%">65
+</td>
+<td>97
+</td>
+<td>129
+</td>
+<td>161
+</td>
+<td>193
+</td>
+<td>225
+</td>
+<td>257
+</td>
+<td>289
+</td>
+<td>321
+</td>
+<td>353
+</td>
+<td>385
+</td>
+<td>417
+</td>
+<td>449
+</td>
+<td>481
+</td>
+<td>513
+</td>
+<td>545
+</td>
+<td style="background:#70B04A"><span style="color:white; font-weight:bold"><span class="tooltip" title="Max Damage" style="cursor: help; border-bottom: 1px dotted;">550</span></span>
+</td></tr>
+<tr>
+<td style="width:4.5%"><span><span style="font-weight:bold; color:#CF6A32;">65</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">117</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">169</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">221</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">273</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">325</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">377</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">429</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">481</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">533</span></span>
+</td>
+<td style="background:#70B04A"><span style="color:white; font-weight:bold"><span class="tooltip" title="Max Damage" style="cursor: help; border-bottom: 1px dotted;">550</span></span>
+</td></tr>
+<tr>
+<td rowspan="2" style="width:10%;"><b>Level 4</b><br>(<a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a>)
+</td>
+<td style="width:4.5%">85
+</td>
+<td>119
+</td>
+<td>153
+</td>
+<td>187
+</td>
+<td>221
+</td>
+<td>255
+</td>
+<td>289
+</td>
+<td>323
+</td>
+<td>357
+</td>
+<td>391
+</td>
+<td>425
+</td>
+<td>459
+</td>
+<td>493
+</td>
+<td>527
+</td>
+<td style="background:#70B04A"><span style="color:white; font-weight:bold"><span class="tooltip" title="Max Damage" style="cursor: help; border-bottom: 1px dotted;">550</span></span>
+</td></tr>
+<tr>
+<td style="width:4.5%"><span><span style="font-weight:bold; color:#CF6A32;">85</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">139</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">193</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">247</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">301</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">355</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">409</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">463</span></span>
+</td>
+<td><span><span style="font-weight:bold; color:#CF6A32;">517</span></span>
+</td>
+<td style="background:#70B04A"><span style="color:white; font-weight:bold"><span class="tooltip" title="Max Damage" style="cursor: help; border-bottom: 1px dotted;">550</span></span>
+</td></tr>
+</tbody><tbody><tr><th colspan="3" style="height:40px;background-color:#0C2A5A"><a href="/wiki/Talents" title="Talents"><span style="color:white; font-size:14pt;">Hero Talents</span></a></th></tr>
+<tr><td style="width:240px">+24 <span class="image-link"><a href="/wiki/Bristleback" title="Bristleback"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Warpath icon.png" data-image-key="Warpath_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Warpath_icon.png/revision/latest/scale-to-width-down/16?cb=20130328004438"></a> <a href="/wiki/Bristleback#Warpath" title="Bristleback">Warpath</a></span> Damage Per Stack</td><th style="padding:10px;background-color:hsl(217, 76%, 20%);font-size:13pt;color:white">25</th><td style="width:240px">13% <a href="/wiki/Spell_lifesteal" title="Spell lifesteal">Spell Lifesteal</a></td></tr>
+<tr><td style="width:240px">+20 <span class="image-link"><a href="/wiki/Bristleback" title="Bristleback"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Quill Spray icon.png" data-image-key="Quill_Spray_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Quill_Spray_icon.png/revision/latest/scale-to-width-down/16?cb=20130328004403"></a> <a href="/wiki/Bristleback#Quill_Spray" title="Bristleback">Quill</a></span> Stack Damage</td><th style="padding:10px;background-color:hsl(217, 76%, 30%);font-size:13pt;color:white">20</th><td style="width:240px">+20 <a href="/wiki/Health_regeneration" title="Health regeneration">Health Regen</a></td></tr>
+<tr><td style="width:240px">+20 <a href="/wiki/Attack_speed" title="Attack speed">Attack Speed</a></td><th style="padding:10px;background-color:hsl(217, 76%, 40%);font-size:13pt;color:white">15</th><td style="width:240px">+200 <a href="/wiki/Health" title="Health">Health</a></td></tr>
+<tr><td style="width:240px">+2 <a href="/wiki/Mana_regeneration" title="Mana regeneration">Mana Regen</a></td><th style="padding:10px;background-color:hsl(217, 76%, 50%);font-size:13pt;color:white">10</th><td style="width:240px">+15 <a href="/wiki/Attack_damage" title="Attack damage">Damage</a></td></tr>
+</tbody>

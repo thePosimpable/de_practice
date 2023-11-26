@@ -1,0 +1,454 @@
+
+
+<caption><span class="image-link"><a href="/wiki/Viper" title="Viper"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Poison Attack icon.png" data-image-key="Poison_Attack_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Poison_Attack_icon.png/revision/latest/scale-to-width-down/16?cb=20111006074741"></a> <a href="/wiki/Viper#Poison_Attack" title="Viper">Poison Attack</a></span> Calculations
+</caption>
+<tbody><tr>
+<th class="header" colspan="10">Units <a href="/wiki/Movement_speed" title="Movement Speed"><img alt="Movement Speed" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="20" height="20" data-image-name="Movement speed icon.png" data-image-key="Movement_speed_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ea/Movement_speed_icon.png/revision/latest/scale-to-width-down/20?cb=20210509025605" class="lazyload"></a> <a href="/wiki/Movement_Speed" class="mw-redirect" title="Movement Speed">Movement Speed</a> Slow<sub>/ Stack</sub>
+</th></tr>
+<tr>
+<td class="header" style="width:10%;"><b>Level <sub>/ Stack</sub></b>
+</td>
+<td style="width:10%; font-weight:bold;">Base
+</td>
+<td style="width:10%; font-weight:bold;">2nd
+</td>
+<td style="width:10%; font-weight:bold;">3rd
+</td>
+<td style="width:10%; font-weight:bold;">4th
+</td>
+<td style="width:10%; font-weight:bold; color:black; background:#FFAEA3;">5th
+</td>
+<td style="width:10%; font-weight:bold; color:#4b69ff;"><a href="/wiki/Aghanim%27s_Shard" title="Upgradable by Aghanim's Shard."><img alt="Upgradable by Aghanim's Shard." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Aghanim's Shard symbol.png" data-image-key="Aghanim%27s_Shard_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Aghanim%27s_Shard_symbol.png/revision/latest/scale-to-width-down/16?cb=20201219120259" class="lazyload"></a> 6th
+</td>
+<td style="width:10%; font-weight:bold; color:#4b69ff;"><a href="/wiki/Aghanim%27s_Shard" title="Upgradable by Aghanim's Shard."><img alt="Upgradable by Aghanim's Shard." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Aghanim's Shard symbol.png" data-image-key="Aghanim%27s_Shard_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Aghanim%27s_Shard_symbol.png/revision/latest/scale-to-width-down/16?cb=20201219120259" class="lazyload"></a> 7th
+</td>
+<td style="width:10%; font-weight:bold; color:black; background:#4b69ff;"><a href="/wiki/Aghanim%27s_Shard" title="Upgradable by Aghanim's Shard."><img alt="Upgradable by Aghanim's Shard." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Aghanim's Shard symbol.png" data-image-key="Aghanim%27s_Shard_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Aghanim%27s_Shard_symbol.png/revision/latest/scale-to-width-down/16?cb=20201219120259" class="lazyload"></a> 8th
+</td></tr>
+<tr>
+<td><b>Level 1</b>
+</td>
+<td style="">6%
+</td>
+<td style="">12%
+</td>
+<td style="">18%
+</td>
+<td style="">24%
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">30%
+</td>
+<td style="color:#4b69ff; font-weight:bold">36%
+</td>
+<td style="color:#4b69ff; font-weight:bold">42%
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">48%
+</td></tr>
+<tr>
+<td><b>Level 2</b>
+</td>
+<td style="">8%
+</td>
+<td style="">16%
+</td>
+<td style="">24%
+</td>
+<td style="">32%
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">40%
+</td>
+<td style="color:#4b69ff; font-weight:bold">48%
+</td>
+<td style="color:#4b69ff; font-weight:bold">56%
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">64%
+</td></tr>
+<tr>
+<td><b>Level 3</b>
+</td>
+<td style="">10%
+</td>
+<td style="">20%
+</td>
+<td style="">30%
+</td>
+<td style="">40%
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">50%
+</td>
+<td style="color:#4b69ff; font-weight:bold">60%
+</td>
+<td style="color:#4b69ff; font-weight:bold">70%
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">80%
+</td></tr>
+<tr>
+<td><b>Level 4</b>
+</td>
+<td style="">12%
+</td>
+<td style="">24%
+</td>
+<td style="">36%
+</td>
+<td style="">48%
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">60%
+</td>
+<td style="color:#4b69ff; font-weight:bold">72%
+</td>
+<td style="color:#4b69ff; font-weight:bold">84%
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">96%
+</td></tr>
+
+<tr>
+<th class="header" colspan="10">Units <span title="With Aghanim's Shard" style="cursor: help; border-bottom: 1px dotted;"><span style="font-weight:bold; color:#4b69ff;">and Buildings</span></span> <a href="/wiki/Magic_resistance" title="Magic resistance"><img alt="Magic resistance" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="20" height="20" data-image-name="Magic resistance icon.png" data-image-key="Magic_resistance_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Magic_resistance_icon.png/revision/latest/scale-to-width-down/20?cb=20210509025557" class="lazyload"></a> <a href="/wiki/Magic_Resistance" class="mw-redirect" title="Magic Resistance">Magic Resistance</a> Reduction<sub>/ Stack</sub>
+</th></tr>
+<tr>
+<td class="header" style="width:10%;"><b>Level <sub>/ Stack</sub></b>
+</td>
+<td style="width:10%; font-weight:bold;">Base
+</td>
+<td style="width:10%; font-weight:bold;">2nd
+</td>
+<td style="width:10%; font-weight:bold;">3rd
+</td>
+<td style="width:10%; font-weight:bold;">4th
+</td>
+<td style="width:10%; font-weight:bold; color:black; background:#FFAEA3;">5th
+</td>
+<td style="width:10%; font-weight:bold; color:#4b69ff;"><a href="/wiki/Aghanim%27s_Shard" title="Upgradable by Aghanim's Shard."><img alt="Upgradable by Aghanim's Shard." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Aghanim's Shard symbol.png" data-image-key="Aghanim%27s_Shard_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Aghanim%27s_Shard_symbol.png/revision/latest/scale-to-width-down/16?cb=20201219120259" class="lazyload"></a> 6th
+</td>
+<td style="width:10%; font-weight:bold; color:#4b69ff;"><a href="/wiki/Aghanim%27s_Shard" title="Upgradable by Aghanim's Shard."><img alt="Upgradable by Aghanim's Shard." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Aghanim's Shard symbol.png" data-image-key="Aghanim%27s_Shard_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Aghanim%27s_Shard_symbol.png/revision/latest/scale-to-width-down/16?cb=20201219120259" class="lazyload"></a> 7th
+</td>
+<td style="width:10%; font-weight:bold; color:black; background:#4b69ff;"><a href="/wiki/Aghanim%27s_Shard" title="Upgradable by Aghanim's Shard."><img alt="Upgradable by Aghanim's Shard." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Aghanim's Shard symbol.png" data-image-key="Aghanim%27s_Shard_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Aghanim%27s_Shard_symbol.png/revision/latest/scale-to-width-down/16?cb=20201219120259" class="lazyload"></a> 8th
+</td></tr>
+<tr>
+<td><b>Level 1</b>
+</td>
+<td style="">4%
+</td>
+<td style="">8%
+</td>
+<td style="">12%
+</td>
+<td style="">16%
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">20%
+</td>
+<td style="color:#4b69ff; font-weight:bold">24%
+</td>
+<td style="color:#4b69ff; font-weight:bold">28%
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">32%
+</td></tr>
+<tr>
+<td><b>Level 2</b>
+</td>
+<td style="">6%
+</td>
+<td style="">12%
+</td>
+<td style="">18%
+</td>
+<td style="">24%
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">30%
+</td>
+<td style="color:#4b69ff; font-weight:bold">36%
+</td>
+<td style="color:#4b69ff; font-weight:bold">42%
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">48%
+</td></tr>
+<tr>
+<td><b>Level 3</b>
+</td>
+<td style="">8%
+</td>
+<td style="">16%
+</td>
+<td style="">24%
+</td>
+<td style="">32%
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">40%
+</td>
+<td style="color:#4b69ff; font-weight:bold">48%
+</td>
+<td style="color:#4b69ff; font-weight:bold">56%
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">64%
+</td></tr>
+<tr>
+<td><b>Level 4</b>
+</td>
+<td style="">10%
+</td>
+<td style="">20%
+</td>
+<td style="">30%
+</td>
+<td style="">40%
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">50%
+</td>
+<td style="color:#4b69ff; font-weight:bold">60%
+</td>
+<td style="color:#4b69ff; font-weight:bold">70%
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">80%
+</td></tr>
+
+<tr>
+<th class="header" colspan="10">Damage per Second<sub>/ Stack</sub> and Σ Damage for the <span class="tooltip" title="4 seconds" style="cursor: help; border-bottom: 1px dotted;">Entire Duration</span>
+</th></tr>
+<tr>
+<td class="header" style="width:10%;"><b>Level <sub>/ Stack</sub></b>
+</td>
+<td style="width:10%; font-weight:bold;">Base
+</td>
+<td style="width:10%; font-weight:bold;">2nd
+</td>
+<td style="width:10%; font-weight:bold;">3rd
+</td>
+<td style="width:10%; font-weight:bold;">4th
+</td>
+<td style="width:10%; font-weight:bold; color:black; background:#FFAEA3;">5th
+</td>
+<td style="width:10%; font-weight:bold; color:#4b69ff;"><a href="/wiki/Aghanim%27s_Shard" title="Upgradable by Aghanim's Shard."><img alt="Upgradable by Aghanim's Shard." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Aghanim's Shard symbol.png" data-image-key="Aghanim%27s_Shard_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Aghanim%27s_Shard_symbol.png/revision/latest/scale-to-width-down/16?cb=20201219120259" class="lazyload"></a> 6th
+</td>
+<td style="width:10%; font-weight:bold; color:#4b69ff;"><a href="/wiki/Aghanim%27s_Shard" title="Upgradable by Aghanim's Shard."><img alt="Upgradable by Aghanim's Shard." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Aghanim's Shard symbol.png" data-image-key="Aghanim%27s_Shard_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Aghanim%27s_Shard_symbol.png/revision/latest/scale-to-width-down/16?cb=20201219120259" class="lazyload"></a> 7th
+</td>
+<td style="width:10%; font-weight:bold; color:black; background:#4b69ff;"><a href="/wiki/Aghanim%27s_Shard" title="Upgradable by Aghanim's Shard."><img alt="Upgradable by Aghanim's Shard." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Aghanim's Shard symbol.png" data-image-key="Aghanim%27s_Shard_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Aghanim%27s_Shard_symbol.png/revision/latest/scale-to-width-down/16?cb=20201219120259" class="lazyload"></a> 8th
+</td></tr>
+<tr>
+<td><b>Level 1</b>
+</td>
+<td style="">4<sub><small>DPS</small></sub> (Σ 16)
+</td>
+<td style="">8<sub><small>DPS</small></sub> (Σ 32)
+</td>
+<td style="">12<sub><small>DPS</small></sub> (Σ 48)
+</td>
+<td style="">16<sub><small>DPS</small></sub> (Σ 64)
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">20<sub><small>DPS</small></sub> (Σ 80)
+</td>
+<td style="color:#4b69ff; font-weight:bold">24<sub><small>DPS</small></sub> (Σ 96)
+</td>
+<td style="color:#4b69ff; font-weight:bold">28<sub><small>DPS</small></sub> (Σ 112)
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">32<sub><small>DPS</small></sub> (Σ 128)
+</td></tr>
+<tr>
+<td><b>Level 2</b>
+</td>
+<td style="">8<sub><small>DPS</small></sub> (Σ 32)
+</td>
+<td style="">16<sub><small>DPS</small></sub> (Σ 64)
+</td>
+<td style="">24<sub><small>DPS</small></sub> (Σ 96)
+</td>
+<td style="">32<sub><small>DPS</small></sub> (Σ 128)
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">40<sub><small>DPS</small></sub> (Σ 160)
+</td>
+<td style="color:#4b69ff; font-weight:bold">48<sub><small>DPS</small></sub> (Σ 192)
+</td>
+<td style="color:#4b69ff; font-weight:bold">56<sub><small>DPS</small></sub> (Σ 224)
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">64<sub><small>DPS</small></sub> (Σ 256)
+</td></tr>
+<tr>
+<td><b>Level 3</b>
+</td>
+<td style="">12<sub><small>DPS</small></sub> (Σ 48)
+</td>
+<td style="">24<sub><small>DPS</small></sub> (Σ 96)
+</td>
+<td style="">36<sub><small>DPS</small></sub> (Σ 144)
+</td>
+<td style="">48<sub><small>DPS</small></sub> (Σ 192)
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">60<sub><small>DPS</small></sub> (Σ 240)
+</td>
+<td style="color:#4b69ff; font-weight:bold">72<sub><small>DPS</small></sub> (Σ 288)
+</td>
+<td style="color:#4b69ff; font-weight:bold">84<sub><small>DPS</small></sub> (Σ 336)
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">96<sub><small>DPS</small></sub> (Σ 384)
+</td></tr>
+<tr>
+<td><b>Level 4</b>
+</td>
+<td style="">16<sub><small>DPS</small></sub> (Σ 64)
+</td>
+<td style="">32<sub><small>DPS</small></sub> (Σ 128)
+</td>
+<td style="">48<sub><small>DPS</small></sub> (Σ 192)
+</td>
+<td style="">64<sub><small>DPS</small></sub> (Σ 256)
+</td>
+<td style="color:black; font-weight:bold; background:#FFAEA3;">80<sub><small>DPS</small></sub> (Σ 320)
+</td>
+<td style="color:#4b69ff; font-weight:bold">96<sub><small>DPS</small></sub> (Σ 384)
+</td>
+<td style="color:#4b69ff; font-weight:bold">112<sub><small>DPS</small></sub> (Σ 448)
+</td>
+<td style="color:black; font-weight:bold; background:#4B69FF;">128<sub><small>DPS</small></sub> (Σ 512)
+</td></tr>
+
+<tr>
+<th class="header" colspan="10">Units and Buildings <a href="/wiki/Armor" title="Armor"><img alt="Armor" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="15" height="15" data-image-name="Armor icon.png" data-image-key="Armor_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Armor_icon.png/revision/latest/scale-to-width-down/15?cb=20210509025524" class="lazyload"></a> <a href="/wiki/Armor" title="Armor">Armor</a> Reduction<sub>/ Stack</sub><br>
+</th></tr>
+<tr>
+<td class="header" style="width:10%;"><a href="/wiki/Aghanim%27s_Shard" title="Upgradable by Aghanim's Shard."><img alt="Upgradable by Aghanim's Shard." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" data-image-name="Aghanim's Shard symbol.png" data-image-key="Aghanim%27s_Shard_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Aghanim%27s_Shard_symbol.png/revision/latest/scale-to-width-down/16?cb=20201219120259" class="lazyload"></a> <b>All Levels <sub>/ Stack</sub></b>
+</td>
+<td style="color:#4b69ff; font-weight:bold;">1
+</td>
+<td style="color:#4b69ff; font-weight:bold;">2
+</td>
+<td style="color:#4b69ff; font-weight:bold;">3
+</td>
+<td style="color:#4b69ff; font-weight:bold;">4
+</td>
+<td style="color:#4b69ff; font-weight:bold;">5
+</td>
+<td style="color:#4b69ff; font-weight:bold;">6
+</td>
+<td style="color:#4b69ff; font-weight:bold;">7
+</td>
+<td style="color:black; background:#4b69ff; font-weight:bold;">8
+</td></tr>
+</tbody>
+
+<tbody><tr>
+<th class="header" colspan="17"><span class="image-link"><a href="/wiki/Viper" title="Viper"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Nethertoxin icon.png" data-image-key="Nethertoxin_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Nethertoxin_icon.png/revision/latest/scale-to-width-down/16?cb=20161222013116"></a> <a href="/wiki/Viper#Nethertoxin" title="Viper">Nethertoxin</a></span> Damage<sub>/ Interval</sub> Calculations with <a href="/wiki/Talents" title="Talent"><img alt="Talent" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="componentsinvert lazyload" data-image-name="Talent tree symbol.png" data-image-key="Talent_tree_symbol.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Talent_tree_symbol.png/revision/latest/scale-to-width-down/16?cb=20180323111832"></a> Talent
+</th></tr>
+<tr>
+<td class="header" style="width:5%;"><b>Duration<sub>/ Level</sub></b>
+</td>
+<td style="width:5%;"><b>0.5s</b>
+</td>
+<td style="width:5%;"><b>1s</b>
+</td>
+<td style="width:5%;"><b>1.5s</b>
+</td>
+<td style="width:5%;"><b>2s</b>
+</td>
+<td style="width:5%;"><b>2.5s</b>
+</td>
+<td style="width:5%;"><b>3s</b>
+</td>
+<td style="width:5%;"><b>3.5s</b>
+</td>
+<td style="width:5%;"><b>4s</b>
+</td>
+<td style="width:5%;"><b>4.5s</b>
+</td>
+<td style="width:5%;"><b>5s</b>
+</td>
+<td style="width:5%;"><b>5.5s</b>
+</td>
+<td style="width:5%;"><b>6s</b>
+</td>
+<td style="width:5%;"><b>6.5s</b>
+</td>
+<td style="width:5%;"><b>7s</b>
+</td>
+<td style="width:5%;"><b>7.5s</b>
+</td>
+<td style="width:5%;"><b>8s</b>
+</td></tr>
+<tr>
+<td class="header"><b>Level 1</b>
+</td>
+<td>7.5
+</td>
+<td>9.7&nbsp;(<span style="font-weight:bold; color:#CF6A32;">14.1</span>)
+</td>
+<td>11.9&nbsp;(<span style="font-weight:bold; color:#CF6A32;">20.6</span>)
+</td>
+<td>14.1&nbsp;(<span style="font-weight:bold; color:#CF6A32;">27.2</span>)
+</td>
+<td>16.3&nbsp;(<span style="font-weight:bold; color:#CF6A32;">33.8</span>)
+</td>
+<td>18.4&nbsp;(<span style="font-weight:bold; color:#CF6A32;">40.3</span>)
+</td>
+<td>20.6&nbsp;(<span style="font-weight:bold; color:#CF6A32;">46.9</span>)
+</td>
+<td>22.8&nbsp;(<span style="font-weight:bold; color:#CF6A32;">53.4</span>)
+</td>
+<td colspan="8" style="font-weight:bold;">25 (<span style="color:#CF6A32;">60</span>)
+</td></tr>
+<tr>
+<td class="header"><b>Level 2</b>
+</td>
+<td>10
+</td>
+<td>13.4&nbsp;(<span style="font-weight:bold; color:#CF6A32;">17.8</span>)
+</td>
+<td>16.9&nbsp;(<span style="font-weight:bold; color:#CF6A32;">25.6</span>)
+</td>
+<td>20.3&nbsp;(<span style="font-weight:bold; color:#CF6A32;">33.4</span>)
+</td>
+<td>23.8&nbsp;(<span style="font-weight:bold; color:#CF6A32;">41.3</span>)
+</td>
+<td>27.2&nbsp;(<span style="font-weight:bold; color:#CF6A32;">49.1</span>)
+</td>
+<td>30.6&nbsp;(<span style="font-weight:bold; color:#CF6A32;">56.9</span>)
+</td>
+<td>34.1&nbsp;(<span style="font-weight:bold; color:#CF6A32;">64.7</span>)
+</td>
+<td colspan="8" style="font-weight:bold;">37.5 (<span style="color:#CF6A32;">72.5</span>)
+</td></tr>
+<tr>
+<td class="header"><b>Level 3</b>
+</td>
+<td>12.5
+</td>
+<td>17.2&nbsp;(<span style="font-weight:bold; color:#CF6A32;">21.6</span>)
+</td>
+<td>21.9&nbsp;(<span style="font-weight:bold; color:#CF6A32;">30.6</span>)
+</td>
+<td>26.6&nbsp;(<span style="font-weight:bold; color:#CF6A32;">39.7</span>)
+</td>
+<td>31.3&nbsp;(<span style="font-weight:bold; color:#CF6A32;">48.8</span>)
+</td>
+<td>35.9&nbsp;(<span style="font-weight:bold; color:#CF6A32;">57.8</span>)
+</td>
+<td>40.6&nbsp;(<span style="font-weight:bold; color:#CF6A32;">66.9</span>)
+</td>
+<td>45.3&nbsp;(<span style="font-weight:bold; color:#CF6A32;">75.9</span>)
+</td>
+<td colspan="8" style="font-weight:bold;">50 (<span style="color:#CF6A32;">85</span>)
+</td></tr>
+<tr>
+<td class="header"><b>Level 4</b>
+</td>
+<td>15
+</td>
+<td>20.9&nbsp;(<span style="font-weight:bold; color:#CF6A32;">25.3</span>)
+</td>
+<td>26.9&nbsp;(<span style="font-weight:bold; color:#CF6A32;">35.6</span>)
+</td>
+<td>32.8&nbsp;(<span style="font-weight:bold; color:#CF6A32;">45.9</span>)
+</td>
+<td>38.8&nbsp;(<span style="font-weight:bold; color:#CF6A32;">56.3</span>)
+</td>
+<td>44.7&nbsp;(<span style="font-weight:bold; color:#CF6A32;">66.6</span>)
+</td>
+<td>50.6&nbsp;(<span style="font-weight:bold; color:#CF6A32;">76.9</span>)
+</td>
+<td>56.6&nbsp;(<span style="font-weight:bold; color:#CF6A32;">87.2</span>)
+</td>
+<td colspan="8" style="font-weight:bold;">62.5 (<span style="color:#CF6A32;">97.5</span>)
+</td></tr>
+
+</tbody><tbody><tr><th colspan="3" style="height:40px;background-color:#0C2A5A"><a href="/wiki/Talents" title="Talents"><span style="color:white; font-size:14pt;">Hero Talents</span></a></th></tr>
+<tr><td style="width:240px">2x <span class="image-link"><a href="/wiki/Viper" title="Viper"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Corrosive Skin icon.png" data-image-key="Corrosive_Skin_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ea/Corrosive_Skin_icon.png/revision/latest/scale-to-width-down/16?cb=20111006074744"></a> <a href="/wiki/Viper#Corrosive_Skin" title="Viper">Corrosive Skin</a></span> Slow and Resistance</td><th style="padding:10px;background-color:hsl(217, 76%, 20%);font-size:13pt;color:white">25</th><td style="width:240px">-11s <span class="image-link"><a href="/wiki/Viper" title="Viper"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Nethertoxin icon.png" data-image-key="Nethertoxin_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Nethertoxin_icon.png/revision/latest/scale-to-width-down/16?cb=20161222013116"></a> <a href="/wiki/Viper#Nethertoxin" title="Viper">Nethertoxin</a></span> Cooldown</td></tr>
+<tr><td style="width:240px">+70 <a href="/wiki/Attack_damage" title="Attack damage">Damage</a></td><th style="padding:10px;background-color:hsl(217, 76%, 30%);font-size:13pt;color:white">20</th><td style="width:240px">+80 <span class="image-link"><a href="/wiki/Viper" title="Viper"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Viper Strike icon.png" data-image-key="Viper_Strike_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/Viper_Strike_icon.png/revision/latest/scale-to-width-down/16?cb=20111006074746"></a> <a href="/wiki/Viper#Viper_Strike" title="Viper">Viper Strike</a></span> DPS</td></tr>
+<tr><td style="width:240px">+300 <a href="/wiki/Health" title="Health">Health</a></td><th style="padding:10px;background-color:hsl(217, 76%, 40%);font-size:13pt;color:white">15</th><td style="width:240px">+70 <span class="image-link"><a href="/wiki/Viper" title="Viper"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Nethertoxin icon.png" data-image-key="Nethertoxin_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Nethertoxin_icon.png/revision/latest/scale-to-width-down/16?cb=20161222013116"></a> <a href="/wiki/Viper#Nethertoxin" title="Viper">Nethertoxin</a></span> Max Damage</td></tr>
+<tr><td style="width:240px">8% <a href="/wiki/Spell_lifesteal" title="Spell lifesteal">Spell Lifesteal</a></td><th style="padding:10px;background-color:hsl(217, 76%, 50%);font-size:13pt;color:white">10</th><td style="width:240px">+20 <a href="/wiki/Attack_speed" title="Attack speed">Attack Speed</a></td></tr>
+</tbody>

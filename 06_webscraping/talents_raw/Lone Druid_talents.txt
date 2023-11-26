@@ -1,0 +1,395 @@
+
+
+<tbody><tr>
+<th colspan="31" style="width:100%;"><span class="image-link"><a href="/wiki/Spirit_Bear" title="Spirit Bear"><img alt="Lone Druid Spirit Bear icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="14" class="noprint lazyload" data-image-name="Lone Druid Spirit Bear icon.png" data-image-key="Lone_Druid_Spirit_Bear_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Lone_Druid_Spirit_Bear_icon.png/revision/latest/scale-to-width-down/24?cb=20170416185551"></a> <a href="/wiki/Spirit_Bear" title="Spirit Bear">Spirit Bear</a></span> Health Values <sub>/ <a href="#Abilities" title="Lone Druid"><img alt="Lone Druid" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="32" height="32" data-image-name="Lone Druid minimap icon.png" data-image-key="Lone_Druid_minimap_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Lone_Druid_minimap_icon.png/revision/latest/scale-to-width-down/32?cb=20120717000946" class="lazyload"></a> Hero Level</sub>
+</th></tr>
+<tr>
+<td class="header">Hero<small>LVL</small>
+</td>
+<td class="header" rowspan="2" style="width:3%; color:black; background-color:#70B04A;"><b>1</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>2</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>3</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>4</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>5</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>6</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>7</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>8</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>9</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>10</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>11</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>12</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>13</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>14</b>
+</td>
+<td class="header" rowspan="2" style="width:3%; color:black; background-color:#70B04A;"><b>15</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>16</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>17</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>18</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>19</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>20</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>21</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>22</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>23</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>24</b>
+</td>
+<td class="header" rowspan="2" style="width:3%; color:black; background-color:#70B04A;"><b>25</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>26</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>27</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>28</b>
+</td>
+<td class="header" rowspan="2" style="width:3%;"><b>29</b>
+</td>
+<td class="header" rowspan="2" style="width:3%; color:black; background-color:#70B04A;"><b>30</b>
+</td></tr>
+<tr>
+<td style="width:10%"><span class="image-link"><a href="/wiki/Lone_Druid" title="Lone Druid"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Summon Spirit Bear icon.png" data-image-key="Summon_Spirit_Bear_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Summon_Spirit_Bear_icon.png/revision/latest/scale-to-width-down/16?cb=20120801075013"></a> <a href="/wiki/Lone_Druid#Summon_Spirit_Bear" title="Lone Druid">Summon Spirit Bear</a></span>
+</td></tr>
+<tr>
+<td><b>Level 1</b>
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">1190
+</td>
+<td style="width:3%;">1280
+</td>
+<td style="width:3%;">1370
+</td>
+<td style="width:3%;">1460
+</td>
+<td style="width:3%;">1550
+</td>
+<td style="width:3%;">1640
+</td>
+<td style="width:3%;">1730
+</td>
+<td style="width:3%;">1820
+</td>
+<td style="width:3%;">1910
+</td>
+<td style="width:3%;">2000
+</td>
+<td style="width:3%;">2090
+</td>
+<td style="width:3%;">2180
+</td>
+<td style="width:3%;">2270
+</td>
+<td style="width:3%;">2360
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">2450
+</td>
+<td style="width:3%;">2540
+</td>
+<td style="width:3%;">2630
+</td>
+<td style="width:3%;">2720
+</td>
+<td style="width:3%;">2810
+</td>
+<td style="width:3%;">2900
+</td>
+<td style="width:3%;">2990
+</td>
+<td style="width:3%;">3080
+</td>
+<td style="width:3%;">3170
+</td>
+<td style="width:3%;">3260
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">3350
+</td>
+<td style="width:3%;">3440
+</td>
+<td style="width:3%;">3530
+</td>
+<td style="width:3%;">3620
+</td>
+<td style="width:3%;">3710
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">3800
+</td></tr>
+<tr>
+<td><b>Level 2</b>
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">1490
+</td>
+<td style="width:3%;">1580
+</td>
+<td style="width:3%;">1670
+</td>
+<td style="width:3%;">1760
+</td>
+<td style="width:3%;">1850
+</td>
+<td style="width:3%;">1940
+</td>
+<td style="width:3%;">2030
+</td>
+<td style="width:3%;">2120
+</td>
+<td style="width:3%;">2210
+</td>
+<td style="width:3%;">2300
+</td>
+<td style="width:3%;">2390
+</td>
+<td style="width:3%;">2480
+</td>
+<td style="width:3%;">2570
+</td>
+<td style="width:3%;">2660
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">2750
+</td>
+<td style="width:3%;">2840
+</td>
+<td style="width:3%;">2930
+</td>
+<td style="width:3%;">3020
+</td>
+<td style="width:3%;">3110
+</td>
+<td style="width:3%;">3200
+</td>
+<td style="width:3%;">3290
+</td>
+<td style="width:3%;">3380
+</td>
+<td style="width:3%;">3470
+</td>
+<td style="width:3%;">3560
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">3650
+</td>
+<td style="width:3%;">3740
+</td>
+<td style="width:3%;">3830
+</td>
+<td style="width:3%;">3920
+</td>
+<td style="width:3%;">4010
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">4100
+</td></tr>
+<tr>
+<td><b>Level 3</b>
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">1790
+</td>
+<td style="width:3%;">1880
+</td>
+<td style="width:3%;">1970
+</td>
+<td style="width:3%;">2060
+</td>
+<td style="width:3%;">2150
+</td>
+<td style="width:3%;">2240
+</td>
+<td style="width:3%;">2330
+</td>
+<td style="width:3%;">2420
+</td>
+<td style="width:3%;">2510
+</td>
+<td style="width:3%;">2600
+</td>
+<td style="width:3%;">2690
+</td>
+<td style="width:3%;">2780
+</td>
+<td style="width:3%;">2870
+</td>
+<td style="width:3%;">2960
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">3050
+</td>
+<td style="width:3%;">3140
+</td>
+<td style="width:3%;">3230
+</td>
+<td style="width:3%;">3320
+</td>
+<td style="width:3%;">3410
+</td>
+<td style="width:3%;">3500
+</td>
+<td style="width:3%;">3590
+</td>
+<td style="width:3%;">3680
+</td>
+<td style="width:3%;">3770
+</td>
+<td style="width:3%;">3860
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">3950
+</td>
+<td style="width:3%;">4040
+</td>
+<td style="width:3%;">4130
+</td>
+<td style="width:3%;">4220
+</td>
+<td style="width:3%;">4310
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">4400
+</td></tr>
+<tr>
+<td><b>Level 4</b>
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">2090
+</td>
+<td style="width:3%;">2180
+</td>
+<td style="width:3%;">2270
+</td>
+<td style="width:3%;">2360
+</td>
+<td style="width:3%;">2450
+</td>
+<td style="width:3%;">2540
+</td>
+<td style="width:3%;">2630
+</td>
+<td style="width:3%;">2720
+</td>
+<td style="width:3%;">2810
+</td>
+<td style="width:3%;">2900
+</td>
+<td style="width:3%;">2990
+</td>
+<td style="width:3%;">3080
+</td>
+<td style="width:3%;">3170
+</td>
+<td style="width:3%;">3260
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">3350
+</td>
+<td style="width:3%;">3440
+</td>
+<td style="width:3%;">3530
+</td>
+<td style="width:3%;">3620
+</td>
+<td style="width:3%;">3710
+</td>
+<td style="width:3%;">3800
+</td>
+<td style="width:3%;">3890
+</td>
+<td style="width:3%;">3980
+</td>
+<td style="width:3%;">4070
+</td>
+<td style="width:3%;">4160
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">4250
+</td>
+<td style="width:3%;">4340
+</td>
+<td style="width:3%;">4430
+</td>
+<td style="width:3%;">4520
+</td>
+<td style="width:3%;">4610
+</td>
+<td style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">4700
+</td></tr>
+
+<tr>
+<th colspan="31" style="width:100%;"><span class="image-link"><a href="/wiki/Spirit_Bear" title="Spirit Bear"><img alt="Lone Druid Spirit Bear icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="14" class="noprint lazyload" data-image-name="Lone Druid Spirit Bear icon.png" data-image-key="Lone_Druid_Spirit_Bear_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Lone_Druid_Spirit_Bear_icon.png/revision/latest/scale-to-width-down/24?cb=20170416185551"></a> <a href="/wiki/Spirit_Bear" title="Spirit Bear">Spirit Bear</a></span> Base Attack Damage Values <sub>/ <a href="#Abilities" title="Lone Druid"><img alt="Lone Druid" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="32" height="32" data-image-name="Lone Druid minimap icon.png" data-image-key="Lone_Druid_minimap_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Lone_Druid_minimap_icon.png/revision/latest/scale-to-width-down/32?cb=20120717000946" class="lazyload"></a> Hero Level</sub>
+</th></tr>
+<tr>
+<td>Base<br>Attack Damage
+</td>
+<td rowspan="2" style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">25
+</td>
+<td rowspan="2" style="width:3%;">30
+</td>
+<td rowspan="2" style="width:3%;">35
+</td>
+<td rowspan="2" style="width:3%;">40
+</td>
+<td rowspan="2" style="width:3%;">45
+</td>
+<td rowspan="2" style="width:3%;">50
+</td>
+<td rowspan="2" style="width:3%;">55
+</td>
+<td rowspan="2" style="width:3%;">60
+</td>
+<td rowspan="2" style="width:3%;">65
+</td>
+<td rowspan="2" style="width:3%;">70
+</td>
+<td rowspan="2" style="width:3%;">75
+</td>
+<td rowspan="2" style="width:3%;">80
+</td>
+<td rowspan="2" style="width:3%;">85
+</td>
+<td rowspan="2" style="width:3%;">90
+</td>
+<td rowspan="2" style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">95
+</td>
+<td rowspan="2" style="width:3%;">100
+</td>
+<td rowspan="2" style="width:3%;">105
+</td>
+<td rowspan="2" style="width:3%;">110
+</td>
+<td rowspan="2" style="width:3%;">115
+</td>
+<td rowspan="2" style="width:3%;">120
+</td>
+<td rowspan="2" style="width:3%;">125
+</td>
+<td rowspan="2" style="width:3%;">130
+</td>
+<td rowspan="2" style="width:3%;">135
+</td>
+<td rowspan="2" style="width:3%;">140
+</td>
+<td rowspan="2" style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">145
+</td>
+<td rowspan="2" style="width:3%;">150
+</td>
+<td rowspan="2" style="width:3%;">155
+</td>
+<td rowspan="2" style="width:3%;">160
+</td>
+<td rowspan="2" style="width:3%;">165
+</td>
+<td rowspan="2" style="width:3%; color:black; background-color:#70B04A; font-weight:bold;">170
+</td></tr></tbody><tbody><tr><th colspan="3" style="height:40px;background-color:#0C2A5A"><a href="/wiki/Talents" title="Talents"><span style="color:white; font-size:14pt;">Hero Talents</span></a></th></tr>
+<tr><td style="width:240px">+1000 <span class="image-link"><a href="/wiki/Lone_Druid" title="Lone Druid"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="True Form icon.png" data-image-key="True_Form_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/True_Form_icon.png/revision/latest/scale-to-width-down/16?cb=20120314225004"></a> <a href="/wiki/Lone_Druid#True_Form" title="Lone Druid">True Form</a></span> and <span class="image-link"><a href="/wiki/Spirit_Bear" title="Spirit Bear"><img alt="Lone Druid Spirit Bear icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="14" class="noprint lazyload" data-image-name="Lone Druid Spirit Bear icon.png" data-image-key="Lone_Druid_Spirit_Bear_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Lone_Druid_Spirit_Bear_icon.png/revision/latest/scale-to-width-down/24?cb=20170416185551"></a> <a href="/wiki/Spirit_Bear" title="Spirit Bear">Spirit Bear</a></span> Health</td><th style="padding:10px;background-color:hsl(217, 76%, 20%);font-size:13pt;color:white">25</th><td style="width:240px">-0.1 <span class="image-link"><a href="/wiki/Spirit_Bear" title="Spirit Bear"><img alt="Lone Druid Spirit Bear icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="14" class="noprint lazyload" data-image-name="Lone Druid Spirit Bear icon.png" data-image-key="Lone_Druid_Spirit_Bear_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Lone_Druid_Spirit_Bear_icon.png/revision/latest/scale-to-width-down/24?cb=20170416185551"></a> <a href="/wiki/Spirit_Bear" title="Spirit Bear">Spirit Bear</a></span> Attack Time</td></tr>
+<tr><td style="width:240px">0 <span class="image-link"><a href="/wiki/Spirit_Bear" title="Spirit Bear"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Entangling Claws (Spirit Bear) icon.png" data-image-key="Entangling_Claws_%28Spirit_Bear%29_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Entangling_Claws_%28Spirit_Bear%29_icon.png/revision/latest/scale-to-width-down/16?cb=20150911131015"></a> <a href="/wiki/Spirit_Bear#Entangling_Claws" title="Spirit Bear">Entangle</a></span> Cooldown</td><th style="padding:10px;background-color:hsl(217, 76%, 30%);font-size:13pt;color:white">20</th><td style="width:240px">-50s <span class="image-link"><a href="/wiki/Lone_Druid" title="Lone Druid"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="True Form icon.png" data-image-key="True_Form_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/True_Form_icon.png/revision/latest/scale-to-width-down/16?cb=20120314225004"></a> <a href="/wiki/Lone_Druid#True_Form" title="Lone Druid">True Form</a></span> Cooldown</td></tr>
+<tr><td style="width:240px">+8 <span class="image-link"><a href="/wiki/Spirit_Bear" title="Spirit Bear"><img alt="Lone Druid Spirit Bear icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="14" class="noprint lazyload" data-image-name="Lone Druid Spirit Bear icon.png" data-image-key="Lone_Druid_Spirit_Bear_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Lone_Druid_Spirit_Bear_icon.png/revision/latest/scale-to-width-down/24?cb=20170416185551"></a> <a href="/wiki/Spirit_Bear" title="Spirit Bear">Spirit Bear</a></span> Armor</td><th style="padding:10px;background-color:hsl(217, 76%, 40%);font-size:13pt;color:white">15</th><td style="width:240px">-10s <span class="image-link"><a href="/wiki/Lone_Druid" title="Lone Druid"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="16" height="16" class="noprint lazyload" data-image-name="Savage Roar icon.png" data-image-key="Savage_Roar_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/31/Savage_Roar_icon.png/revision/latest/scale-to-width-down/16?cb=20180712011129"></a> <a href="/wiki/Lone_Druid#Savage_Roar" title="Lone Druid">Savage Roar</a></span> Cooldown</td></tr>
+<tr><td style="width:240px">+25 <span class="image-link"><a href="/wiki/Spirit_Bear" title="Spirit Bear"><img alt="Lone Druid Spirit Bear icon.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="24" height="14" class="noprint lazyload" data-image-name="Lone Druid Spirit Bear icon.png" data-image-key="Lone_Druid_Spirit_Bear_icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Lone_Druid_Spirit_Bear_icon.png/revision/latest/scale-to-width-down/24?cb=20170416185551"></a> <a href="/wiki/Spirit_Bear" title="Spirit Bear">Spirit Bear</a></span> Movement Speed</td><th style="padding:10px;background-color:hsl(217, 76%, 50%);font-size:13pt;color:white">10</th><td style="width:240px">+200 <a href="/wiki/Health" title="Health">Health</a></td></tr>
+</tbody>
