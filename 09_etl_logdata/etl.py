@@ -1,4 +1,8 @@
 import re, time, psycopg2
+from dotenv import load_dotenv
+
+DOTENV_PATH = ".env"
+load_dotenv(DOTENV_PATH)
 from sql_queries import *
 
 def process_logfile(file):
@@ -68,10 +72,10 @@ def process_parsed_data(parsed_data, cur, conn):
 
 def main():
 	conn = psycopg2.connect(
-		user = "postgres",
-		password = "password",
-		port = "5432",
-		database = "test_log_db1"
+		user = os.environ.get("DB_USER"),
+		password = os.environ.get("DB_PASS"),
+		port = os.environ.get("DB_PORT"),
+		database = os.environ.get("DB_DATABASE")
 	)
 
 	cur = conn.cursor()

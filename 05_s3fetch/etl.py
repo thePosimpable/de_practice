@@ -5,7 +5,11 @@ import pyarrow, fastparquet
 import configparser
 import psycopg2
 
+from dotenv import load_dotenv
 from sql_queries import *
+
+DOTENV_PATH = ".env"
+load_dotenv(DOTENV_PATH)
 
 def fetch_from_s3(config, buffer):
 	s3 = boto3.resource(
@@ -42,10 +46,10 @@ def main():
 
 def main2():
 	conn = psycopg2.connect(
-		user = "postgres",
-		password = "password",
-		port = "5432",
-		database = "test_log_db1"
+		user = os.environ.get("DB_USER"),
+		password = os.environ.get("DB_PASS"),
+		port = os.environ.get("DB_PORT"),
+		database = os.environ.get("DB_DATABASE")
 	)
 
 	cur = conn.cursor()

@@ -1,12 +1,16 @@
 import bs4, requests, re, sys, datetime, time, copy, shutil, os
+from dotenv import load_dotenv
 from selenium import webdriver
 from heroes import heroes
+
+DOTENV_PATH = ".env"
+load_dotenv(DOTENV_PATH)
 
 opts = webdriver.ChromeOptions()
 opts.headless = True
 opts.log_level = 'OFF'
 
-driver = webdriver.Chrome('C:\\Users\\alpho\\Downloads\\chromedriver_win32\\chromedriver', options = opts)
+driver = webdriver.Chrome(os.environ.get("WEBDRIVER_PATH"), options = opts)
 
 current_directory = os.getcwd()
 

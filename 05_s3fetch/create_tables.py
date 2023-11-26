@@ -1,12 +1,16 @@
 import psycopg2
+from dotenv import load_dotenv
 from sql_queries import create_table_queries, drop_table_queries
+
+DOTENV_PATH = ".env"
+load_dotenv(DOTENV_PATH)
 
 def create_database():
 	conn = psycopg2.connect(
-		user = "postgres",
-		password = "password",
-		port = "5432",
-		database = "test_log_db1"
+		user = os.environ.get("DB_USER"),
+		password = os.environ.get("DB_PASS"),
+		port = os.environ.get("DB_PORT"),
+		database = os.environ.get("DB_DATABASE")
 	)
 
 	conn.set_session(autocommit=True)

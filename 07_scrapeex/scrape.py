@@ -1,17 +1,20 @@
 import requests, re, sys, datetime, re, os
 import pandas as pd
 
+from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 
+DOTENV_PATH = ".env"
+load_dotenv(DOTENV_PATH)
+
 opts = webdriver.ChromeOptions()
 opts.headless = True
 opts.log_level = 'OFF'
 
-# driver = webdriver.Chrome('C:\\Users\\alpho\\Downloads\\chromedriver_win32\\chromedriver', options = opts)
-driver = webdriver.Firefox(executable_path = 'C:\\Users\\alpho\\Downloads\\geckodriver-v0.30.0-win64\\geckodriver')
+driver = webdriver.Firefox(executable_path = os.environ.get("WEBDRIVER_PATH"))
 BASE_URL = ""
 PAGE_LIMIT = 2
 
